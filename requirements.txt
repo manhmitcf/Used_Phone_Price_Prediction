@@ -1,0 +1,22 @@
+# Cào dữ liệu (Web Scraping)
+selenium==4.10.0
+webdriver-manager==4.0.0
+beautifulsoup4==4.12.0
+requests==2.31.0
+pyautogui==0.9.53
+
+# Xử lý dữ liệu
+pandas==2.0.3
+numpy==1.25.2
+
+# Kết nối cơ sở dữ liệu (ODBC)
+pyodbc==4.0.34
+
+# Framework dự đoán (Machine Learning)
+scikit-learn==1.3.0
+xgboost==1.7.6
+lightgbm==3.3.5
+
+# Các thư viện tiện ích khác
+re  # thuộc thư viện chuẩn của Python, không cần cài đặt
+time  # thuộc thư viện chuẩn của Python, không cần cài đặt
