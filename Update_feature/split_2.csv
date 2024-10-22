@@ -1,0 +1,414 @@
+brand,phone_name,oldprice,newprice,release,ram,rom,combined_condition
+,iPhone 12 Pro,12.190.000đ,28.990.000đ,,,128 GB,a_old 
+,vivo Y38,4.990.000đ,,,8 GB,256 GB,a_new 
+,OPPO A79,5.390.000đ,7.990.000đ,,8 GB,256 GB,a_like_new 
+,realme C61,2.890.000đ,3.590.000đ,,4 GB,128 GB,a_new 
+,Samsung Galaxy Z Fold5,22.790.000đ,44.990.000đ,,12 GB,1 TB,a_old 
+,Samsung Galaxy Z Flip4,8.290.000đ,25.990.000đ,,8 GB,512 GB,a_old 
+,Samsung Galaxy A23,2.590.000đ,,,6 GB,128 GB,a_old 
+,Samsung Galaxy S23 FE,7.990.000đ,14.890.000đ,,8 GB,128 GB,a_old 
+,iPhone 12 Pro Max,18.590.000đ,31.990.000đ,,,256 GB,a_like_new 
+,Samsung Galaxy Z Fold5,22.790.000đ,44.990.000đ,,12 GB,512 GB,a_old 
+,Xiaomi 13 Lite,4.590.000đ,11.490.000đ,,8 GB,128 GB,a_old 
+,Samsung Galaxy S23 Ultra,17.290.000đ,31.990.000đ,,8 GB,256 GB,a_like_new 
+,OPPO Reno11 Pro,9.890.000đ,16.090.000đ,,12 GB,512 GB,a_old 
+,TECNO SPARK 20PRO+,3.290.000đ,5.490.000đ,,8GB + Mở rộng 8GB,256 GB,a_old 
+,Xiaomi 13T,9.090.000đ,12.990.000đ,,12 GB,256 GB,a_new 
+,Tecno Pova 6 Neo,3.390.000đ,4.590.000đ,,8 GB,128 GB,a_new 
+,Điện thoại Tecno Camon 30,3.890.000đ,6.490.000đ,,8 GB,256 GB,a_old 
+,Xiaomi 13T Pro,11.290.000đ,16.990.000đ,,12 GB,512 GB,a_like_new 
+,ASUS ROG Phone 6,12.190.000đ,18.990.000đ,,12 GB,256 GB,a_new 
+,iPhone SE 2020,4.590.000đ,10.990.000đ,,3 GB,64 GB,a_like_new 
+,Samsung Galaxy Note 20 Ultra,8.690.000đ,,,8 GB,256 GB,a_like_new 
+,Xiaomi 13T Pro,12.290.000đ,16.990.000đ,,12 GB,512 GB,a_new 
+,Nubia Neo,2.790.000đ,4.990.000đ,,8 GB,256 GB,a_old 
+,Samsung Galaxy A15 LTE,3.490.000đ,4.990.000đ,,8 GB,128 GB,a_new 
+,iPhone XS,6.790.000đ,28.500.000đ,,,256 GB,a_like_new 
+,Samsung Galaxy Z Fold3,10.490.000đ,44.990.000đ,,12 GB,256 GB,a_old 
+,Apple iPhone 6S Plus,2.790.000đ,18.590.000đ,,,64 GB,a_like_new 
+,Samsung Galaxy A54,6.140.000đ,10.490.000đ,,8 GB,128 GB,a_new 
+,Nubia Red Magic 6R,5.490.000đ,15.990.000đ,,8 GB,128 GB,a_old 
+,Xiaomi 13T,8.190.000đ,12.990.000đ,,12 GB,256 GB,a_like_new 
+,Nubia Neo,3.390.000đ,4.990.000đ,,8 GB,256 GB,a_new 
+,iPhone 12 Pro,15.090.000đ,26.631.000đ,,,128 GB,a_like_new 
+,Samsung Galaxy A35,6.390.000đ,8.290.000đ,,8 GB,128 GB,a_new 
+,OnePlus Nord CE 3 Lite,3.390.000đ,6.190.000đ,,8 GB,256 GB,a_old 
+,Xiaomi Redmi 13C,2.590.000đ,3.490.000đ,,6 GB,128 GB,a_new 
+,Apple iPhone 8 Plus,5.590.000đ,19.990.000đ,,,256 GB,a_like_new 
+,Xiaomi Redmi Note 12 Pro,4.990.000đ,9.490.000đ,,8 GB,256 GB,a_like_new 
+,Itel S23,1.690.000đ,3.490.000đ,,8 GB,128 GB,a_new 
+,Xiaomi Redmi Note 13 Pro Plus,7.090.000đ,10.990.000đ,,8 GB,256 GB,a_like_new 
+,Xiaomi 13 Lite,6.090.000đ,11.490.000đ,,8 GB,256 GB,a_like_new 
+,iPhone 11 Pro Max,8.890.000đ,29.000.000đ,,4 GB,64 GB,a_old 
+,iPhone 11 Pro Max,12.390.000đ,35.000.000đ,,4 GB,512 GB,a_like_new 
+,Samsung Galaxy A50,2.490.000đ,6.990.000đ,,,64 GB,a_old 
+,Xiaomi POCO M5,3.090.000đ,4.690.000đ,,6 GB,128 GB,a_like_new 
+,ASUS ROG Phone 5S,9.190.000đ,20.990.000đ,,16 GB,256 GB,a_old 
+,Xiaomi 12T,6.590.000đ,12.490.000đ,,8 GB,128 GB,a_like_new 
+,Nokia 8210,890.000đ,1.490.000đ,,,128 MB,a_like_new 
+,Samsung Galaxy A23,2.890.000đ,5.690.000đ,,4 GB,128 GB,a_like_new 
+,Samsung Galaxy Z Fold3,12.490.000đ,44.990.000đ,,12 GB,256 GB,a_like_new 
+,Samsung Galaxy A53,3.690.000đ,9.990.000đ,,8 GB,128 GB,a_old 
+,Samsung Galaxy S23 Ultra,21.290.000đ,36.990.000đ,,12 GB,512 GB,a_new 
+,OPPO Reno12,9.590.000đ,12.990.000đ,,12 GB,256 GB,a_like_new 
+,Xiaomi Redmi 13C,1.990.000đ,3.490.000đ,,6 GB,128 GB,a_old 
+,Samsung Galaxy A55,7.090.000đ,9.990.000đ,,8 GB,128 GB,a_like_new 
+,Điện thoại ZTE Blade A72,1.290.000đ,2.490.000đ,,3 GB,128 GB,a_like_new 
+,iPhone 8 Plus,6.990.000đ,16.000.000đ,,3 GB,128 GB,a_like_new 
+,Xiaomi POCO X6 Pro,6.390.000đ,9.990.000đ,,8 GB,256 GB,a_like_new 
+,Xiaomi Redmi 13C,2.290.000đ,3.490.000đ,,6 GB,128 GB,a_like_new 
+,Apple iPhone 6S Plus,2.490.000đ,18.590.000đ,,,64 GB,a_old 
+,Samsung Galaxy A73,5.990.000đ,12.990.000đ,,8 GB,128 GB,a_like_new 
+,iPhone 12 Pro Max,13.290.000đ,28.990.000đ,,,,a_old 
+,iPhone 15 Pro Max,Giá Liên Hệ,34.990.000đ,,,256 GB,a_new 
+,Samsung Galaxy S24 Plus,18.090.000đ,26.990.000đ,,12 GB,256 GB,a_new 
+,Apple iPhone 7 Plus,3.290.000đ,9.990.000đ,,,32 GB,a_old 
+,ZTE Blade V50 Design,2.190.000đ,2.990.000đ,,8GB + Mở rộng 10GB,128 GB,a_new 
+,ASUS ROG Phone 6,10.990.000đ,18.990.000đ,,12 GB,256 GB,a_like_new 
+,Samsung Galaxy M14,2.790.000đ,5.290.000đ,,4 GB,128 GB,a_like_new 
+,realme C60,1.990.000đ,2.790.000đ,,4 GB,64 GB,a_new 
+,Apple iPhone 8,2.990.000đ,14.500.000đ,,,64 GB,a_old 
+,Xiaomi Redmi Note 12,3.290.000đ,4.990.000đ,,4 GB,128 GB,a_new 
+,Xiaomi Redmi 12C,2.190.000đ,3.590.000đ,,4 GB,128 GB,a_like_new 
+,Xiaomi POCO M5,2.590.000đ,4.690.000đ,,6 GB,128 GB,a_new 
+,Samsung Galaxy A34,5.240.000đ,8.490.000đ,,8 GB,128 GB,a_new 
+,Xiaomi 12,6.790.000đ,19.990.000đ,,8 GB,256 GB,a_like_new 
+,Samsung Galaxy S24 Ultra,31.790.000đ,44.490.000đ,,12 GB,1 TB,a_new 
+,Xiaomi Redmi Note 10S,3.090.000đ,6.490.000đ,,8 GB,128 GB,a_old 
+,Xiaomi Redmi A3,Giá Liên Hệ,2.990.000đ,,4 GB,128 GB,a_new 
+,INOI 288S,690.000đ,1.190.000đ,,,,a_old 
+,Xiaomi Redmi Note 12,2.990.000đ,5.790.000đ,,8 GB,128 GB,a_old 
+,Nubia Neo 2,3.090.000đ,5.490.000đ,,8 GB,256 GB,a_old 
+,iPhone 13,14.590.000đ,20.290.000đ,,4 GB,256 GB,a_new 
+,Samsung Galaxy Z Flip3,5.990.000đ,26.990.000đ,,8 GB,256 GB,a_old 
+,OPPO Reno11,6.790.000đ,9.050.000đ,,8 GB,256 GB,a_old 
+,Nokia 110,450.000đ,710.000đ,,,128 MB,a_old 
+,Infinix Note 30,2.590.000đ,4.690.000đ,,8GB + Mở rộng 8GB,256 GB,a_like_new 
+,Xiaomi Redmi Note 10,1.890.000đ,5.490.000đ,,4 GB,64 GB,a_old 
+,Samsung Galaxy A52,2.890.000đ,9.290.000đ,,8 GB,128 GB,a_like_new 
+,Xiaomi Poco X3 GT,2.790.000đ,7.990.000đ,,8 GB,128 GB,a_old 
+,Samsung Galaxy S22 Plus,8.990.000đ,25.990.000đ,,8 GB,128 GB,a_old 
+,TECNO SPARK 20PRO+,3.990.000đ,5.490.000đ,,8GB + Mở rộng 8GB,256 GB,a_new 
+,Samsung Galaxy A54,6.140.000đ,10.490.000đ,,8 GB,256 GB,a_like_new 
+,Samsung Galaxy Note 20,5.790.000đ,23.990.000đ,,8 GB,256 GB,a_old 
+,Samsung Galaxy S21 Ultra,10.090.000đ,33.990.000đ,,12 GB,256 GB,a_like_new 
+,OPPO Reno10,5.490.000đ,10.990.000đ,,8 GB,256 GB,a_old 
+,Infinix Hot 30i,Giá Liên Hệ,3.290.000đ,,8GB + Mở rộng 8GB,128 GB,a_old 
+,Samsung Galaxy A73,5.490.000đ,12.990.000đ,,8 GB,128 GB,a_old 
+,Tecno POVA 5,2.990.000đ,4.490.000đ,,8 GB,128 GB,a_like_new 
+,INOI Note 13s,2.290.000đ,3.390.000đ,,8 GB,256 GB,a_new 
+,Samsung Galaxy M34,4.290.000đ,7.990.000đ,,8 GB,128 GB,a_like_new 
+,vivo Y18S,3.090.000đ,4.190.000đ,,6 GB,128 GB,a_new 
+,Vivo Y02,1.290.000đ,2.790.000đ,,2 GB,32 GB,a_old 
+,Xiaomi Redmi Note 11 Pro,3.290.000đ,7.490.000đ,,8 GB,128 GB,a_old 
+,Samsung Galaxy S24 Plus,Giá Liên Hệ,26.990.000đ,,12 GB,256 GB,a_like_new 
+,OPPO A17K,1.490.000đ,3.290.000đ,,3 GB,64 GB,a_old 
+,Apple iPhone 7,3.090.000đ,13.000.000đ,,,128 GB,a_like_new 
+,Xiaomi Redmi 10C,1.290.000đ,3.890.000đ,,4 GB,128 GB,a_old 
+,Samsung Galaxy A34,4.740.000đ,8.490.000đ,,8 GB,128 GB,a_like_new 
+,Samsung Galaxy S24 Ultra,26.090.000đ,37.490.000đ,,12 GB,512 GB,a_new 
+,Xiaomi POCO X6 Pro,Giá Liên Hệ,9.990.000đ,,8 GB,256 GB,a_old 
+,INOI A72,1.690.000đ,2.490.000đ,,4 GB,128 GB,a_like_new 
+,Samsung Galaxy A54,5.040.000đ,10.490.000đ,,8 GB,128 GB,a_old 
+,Nokia 220,550.000đ,990.000đ,,,128 MB,a_like_new 
+,Apple iPhone 6S,2.690.000đ,14.590.000đ,,,64 GB,a_like_new 
+,Samsung Galaxy Z Flip3,5.990.000đ,26.990.000đ,,8 GB,128 GB,a_old 
+,Samsung Galaxy S24 Ultra,Giá Liên Hệ,44.490.000đ,,12 GB,1 TB,a_like_new 
+,Samsung Galaxy Z Flip3,6.490.000đ,24.990.000đ,,8 GB,128 GB,a_like_new 
+,Samsung Galaxy Note 20 Ultra,10.090.000đ,32.990.000đ,,12 GB,256 GB,a_like_new 
+,Xiaomi Redmi Note 11 Pro,3.290.000đ,8.990.000đ,,8 GB,128 GB,a_old 
+,ZTE Blade A52,1.290.000đ,2.290.000đ,,3 GB,64 GB,a_new 
+,Infinix Hot 40 Pro Free Fire,3.090.000đ,4.290.000đ,,8 GB,256 GB,a_new 
+,Samsung Galaxy A12,2.090.000đ,4.290.000đ,,4 GB,128 GB,a_old 
+,Xiaomi 12T Pro,7.990.000đ,16.990.000đ,,12 GB,256 GB,a_old 
+,Nokia 110,350.000đ,850.000đ,,,128 MB,a_old 
+,iPhone XS Max,7.990.000đ,28.500.000đ,,,512 GB,a_old 
+,iPhone 12 mini,7.990.000đ,18.990.000đ,,,128 GB,a_old 
+,iPhone 14 Plus,Giá Liên Hệ,22.990.000đ,,6 GB,128 GB,a_new 
+,Masstel izi T2,400.000đ,500.000đ,,48MB,128 MB,a_like_new 
+,Nokia 105,250.000đ,820.000đ,,,128 MB,a_old 
+,Samsung Galaxy Z Flip3,6.990.000đ,26.990.000đ,,8 GB,256 GB,a_like_new 
+,iPhone 14 Pro,21.390.000đ,39.990.000đ,,6 GB,1 TB,a_old 
+,ASUS ROG Phone 6,12.390.000đ,20.990.000đ,,16 GB,512 GB,a_old 
+,Samsung Galaxy A05,2.090.000đ,3.090.000đ,,4 GB,128 GB,a_like_new 
+,Vivo V27e,5.190.000đ,8.990.000đ,,8 GB,256 GB,a_new 
+,POCO X5,3.890.000đ,7.490.000đ,,8 GB,256 GB,a_like_new 
+,Xiaomi POCO X6 Pro,5.390.000đ,9.990.000đ,,8 GB,256 GB,a_old 
+,Oppo A54,2.490.000đ,4.690.000đ,,4 GB,128 GB,a_like_new 
+,Xiaomi Redmi Note 11 Pro Plus,4.590.000đ,9.990.000đ,,8 GB,256 GB,a_like_new 
+,Samsung Galaxy A53,4.490.000đ,9.990.000đ,,8 GB,128 GB,a_like_new 
+,Samsung Galaxy A52s,3.690.000đ,9.290.000đ,,8 GB,128 GB,a_like_new 
+,iPhone 14 Plus,Giá Liên Hệ,22.990.000đ,,6 GB,128 GB,a_old 
+,Tecno POVA 5,2.690.000đ,4.490.000đ,,8 GB,128 GB,a_old 
+,Nubia Neo 2,3.590.000đ,5.490.000đ,,8 GB,256 GB,a_like_new 
+,Xiaomi Redmi Note 11 Pro,3.590.000đ,7.490.000đ,,8 GB,128 GB,a_old 
+,Realme C33,1.890.000đ,3.990.000đ,,4 GB,64 GB,a_like_new 
+,Xiaomi Mi 10T Pro,3.990.000đ,12.990.000đ,,8 GB,256 GB,a_old 
+,Xiaomi Redmi Note 12,3.290.000đ,4.990.000đ,,8 GB,128 GB,a_like_new 
+,Xiaomi Redmi Note 10,3.990.000đ,5.490.000đ,,6 GB,128 GB,a_like_new 
+,vivo V30E,7.890.000đ,10.490.000đ,,12 GB,256 GB,a_new 
+,Điện thoại Tecno Camon 30,5.090.000đ,6.990.000đ,,12 GB,256 GB,a_new 
+,Samsung Galaxy A12,1.790.000đ,4.290.000đ,,4 GB,128 GB,a_old 
+,iPhone 12 Pro Max,13.290.000đ,28.990.000đ,,,128 GB,a_old 
+,iPhone 11,8.990.000đ,13.990.000đ,,4 GB,128 GB,a_new 
+,Samsung Galaxy A52s,2.890.000đ,9.290.000đ,,8 GB,128 GB,a_old 
+,Samsung Galaxy S22 Ultra,14.790.000đ,36.990.000đ,,12 GB,512 GB,a_like_new 
+,iPhone XR,5.690.000đ,16.990.000đ,,,128 GB,a_old 
+,Samsung Galaxy M14,2.490.000đ,5.290.000đ,,4 GB,128 GB,a_old 
+,Xiaomi Redmi 10A,1.390.000đ,2.890.000đ,,2 GB,32 GB,a_like_new 
+,TECNO SPARK Go 2024,1.590.000đ,2.190.000đ,,4GB + Mở rộng 4GB,64 GB,a_new 
+,Samsung Galaxy Note 10 Lite,4.890.000đ,11.490.000đ,,8 GB,128 GB,a_old 
+,Samsung Galaxy Note 20 Ultra,8.090.000đ,29.990.000đ,,8 GB,256 GB,a_old 
+,iPhone 12,10.290.000đ,23.990.000đ,,4 GB,256 GB,a_old 
+,iPhone 13 Pro Max,14.890.000đ,31.990.000đ,,6 GB,128 GB,a_old 
+,OPPO Reno6 Z,3.590.000đ,9.490.000đ,,8 GB,128 GB,a_like_new 
+,Samsung Galaxy A55,9.490.000đ,9.990.000đ,,12 GB,256 GB,a_new 
+,Samsung Galaxy A14,2.290.000đ,5.190.000đ,,4 GB,128 GB,a_old 
+,Xiaomi POCO X6 Pro,7.790.000đ,9.990.000đ,,12 GB,512 GB,a_like_new 
+,Samsung Galaxy A14,2.890.000đ,5.190.000đ,,6 GB,128 GB,a_old 
+,iPhone 13 Pro Max,17.490.000đ,35.990.000đ,,6 GB,128 GB,a_like_new 
+,iPhone 11 Pro Max,11.690.000đ,35.000.000đ,,4 GB,512 GB,a_old 
+,Điện thoại Nubia V60 Design,2.490.000đ,3.290.000đ,,6 GB,256 GB,a_new 
+,Samsung Galaxy S24 Ultra,Giá Liên Hệ,33.990.000đ,,12 GB,256 GB,a_old 
+,Xiaomi Redmi Note 11 Pro,4.390.000đ,7.490.000đ,,8 GB,128 GB,a_new 
+,Samsung Galaxy A34,4.340.000đ,8.490.000đ,,,,a_old 
+,Infinix Note 40 Pro,4.490.000đ,5.990.000đ,,8 GB,256 GB,a_like_new 
+,Xiaomi Redmi Note 13 Pro Plus,6.590.000đ,10.990.000đ,,8 GB,256 GB,a_old 
+,Vivo V27e,4.290.000đ,8.990.000đ,,8 GB,256 GB,a_old 
+,INOI 288S,790.000đ,1.190.000đ,,,,a_like_new 
+,Samsung Galaxy Z Fold6,36.990.000đ,47.990.000đ,,12 GB,512 GB,a_new 
+,Samsung Galaxy A13,1.690.000đ,4.190.000đ,,4 GB,128 GB,a_old 
+,iPhone 11,8.890.000đ,13.990.000đ,,4 GB,128 GB,a_new 
+,OPPO Reno11 F,5.490.000đ,8.990.000đ,,8 GB,256 GB,a_old 
+,Infinix Note 30,3.790.000đ,5.290.000đ,,8GB + Mở rộng 8GB,256 GB,a_new 
+,Xiaomi 12T,7.290.000đ,12.490.000đ,,8 GB,256 GB,a_like_new 
+,Xiaomi Redmi Note 12,3.690.000đ,4.990.000đ,,8 GB,256 GB,a_like_new 
+,Nokia 110,500.000đ,710.000đ,,,128 MB,a_like_new 
+,Samsung Galaxy Z Flip5,9.890.000đ,29.990.000đ,,8 GB,256 GB,a_old 
+,Nokia 3210,990.000đ,1.590.000đ,,,128 MB,a_like_new 
+,ZTE Blade V50 Design,1.890.000đ,2.990.000đ,,8GB + Mở rộng 10GB,128 GB,a_like_new 
+,iPhone 14,13.890.000đ,22.990.000đ,,6 GB,128 GB,a_old 
+,Itel S23,1.890.000đ,3.990.000đ,,8 GB,256 GB,a_new 
+,Samsung Galaxy A32,3.890.000đ,6.490.000đ,,6 GB,128 GB,a_like_new 
+,Samsung Galaxy S21 Ultra,7.890.000đ,33.990.000đ,,12 GB,256 GB,a_old 
+,OPPO A98,2.190.000đ,5.790.000đ,,8 GB,256 GB,a_like_new 
+,Masstel Fami 60S,490.000đ,700.000đ,,,128 MB,a_like_new 
+,Xiaomi Redmi 10C,1.890.000đ,3.890.000đ,,4 GB,128 GB,a_like_new 
+,Vivo V27e,4.690.000đ,8.990.000đ,,8 GB,256 GB,a_like_new 
+,Nokia C31,1.190.000đ,3.690.000đ,,4 GB,128 GB,a_old 
+,Samsung Galaxy Note 20 Ultra,9.390.000đ,32.990.000đ,,12 GB,256 GB,a_old 
+,Samsung Galaxy S22 Plus,10.690.000đ,25.990.000đ,,8 GB,256 GB,a_like_new 
+,TECNO SPARK 20PRO+,3.590.000đ,5.490.000đ,,8GB + Mở rộng 8GB,256 GB,a_like_new 
+,Xiaomi Redmi 10,2.190.000đ,3.650.000đ,,4 GB,64 GB,a_like_new 
+,Samsung Galaxy A05S,2.690.000đ,3.990.000đ,,4 GB,128 GB,a_like_new 
+,iPhone 13,Giá Liên Hệ,17.290.000đ,,4 GB,128 GB,a_new 
+,Samsung Galaxy A33,3.890.000đ,7.290.000đ,,6 GB,128 GB,a_like_new 
+,Xiaomi Redmi Note 11 Pro Plus,4.090.000đ,9.990.000đ,,8 GB,256 GB,a_old 
+,Xiaomi Redmi 10,1.690.000đ,3.650.000đ,,4 GB,128 GB,a_old 
+,Samsung Galaxy S23 Ultra,15.290.000đ,31.990.000đ,,8 GB,256 GB,a_old 
+,OPPO Find X5 Pro,10.790.000đ,19.990.000đ,,12 GB,256 GB,a_old 
+,Samsung Galaxy Z Fold6,Giá Liên Hệ,43.990.000đ,,12 GB,256 GB,a_like_new 
+,OPPO Reno10 Pro Plus,11.990.000đ,19.990.000đ,,12 GB,256 GB,a_new 
+,ASUS ROG Phone 6,11.590.000đ,20.990.000đ,,16 GB,512 GB,a_old 
+,Redmi A2,1.490.000đ,2.190.000đ,,2 GB,32 GB,a_new 
+,Samsung Galaxy Note 20,5.290.000đ,23.990.000đ,,8 GB,256 GB,a_old 
+,Samsung Galaxy M55,Giá Liên Hệ,12.690.000đ,,12 GB,256 GB,a_like_new 
+,OPPO A57,2.290.000đ,4.990.000đ,,4 GB,128 GB,a_old 
+,OPPO Reno8 Z,4.890.000đ,10.490.000đ,,8 GB,256 GB,a_like_new 
+,iPhone 13,14.590.000đ,33.990.000đ,,4 GB,512 GB,a_like_new 
+,Xiaomi Redmi Note 13 Pro,3.990.000đ,7.290.000đ,,8 GB,128 GB,a_old 
+,iPhone 13 mini,Giá Liên Hệ,21.990.000đ,,4 GB,128 GB,a_new 
+,OPPO Reno11,6.290.000đ,9.050.000đ,,8 GB,256 GB,a_old 
+,iPhone 11,7.990.000đ,13.990.000đ,,4 GB,128 GB,a_old 
+,Điện thoại ZTE Blade V40,1.590.000đ,2.490.000đ,,6GB + Mở rộng 5GB,128 GB,a_like_new 
+,Samsung Galaxy A54,6.840.000đ,10.490.000đ,,8 GB,256 GB,a_new 
+,Samsung Galaxy A13,1.990.000đ,4.190.000đ,,4 GB,128 GB,a_old 
+,Realme 10,3.090.000đ,7.190.000đ,,8 GB,256 GB,a_old 
+,TECNO SPARK Go 2024,1.390.000đ,1.990.000đ,,4GB + Mở rộng 4GB,64 GB,a_like_new 
+,Samsung Galaxy A13,2.290.000đ,4.190.000đ,,4 GB,128 GB,a_like_new 
+,Nokia 105,450.000đ,680.000đ,,,128 MB,a_like_new 
+,Samsung Galaxy A51,2.190.000đ,7.990.000đ,,,128 GB,a_like_new 
+,Realme C53,2.490.000đ,4.790.000đ,,6 GB,128 GB,a_old 
+,OPPO A76,2.190.000đ,5.990.000đ,,6 GB,128 GB,a_old 
+,Xiaomi 13T,8.290.000đ,12.990.000đ,,8 GB,256 GB,a_new 
+,Samsung Galaxy S24 Ultra,22.090.000đ,37.490.000đ,,12 GB,512 GB,a_old 
+,iPhone 15 Plus,Giá Liên Hệ,25.990.000đ,,,128 GB,a_new 
+,ZTE Blade V50 Design,2.090.000đ,3.290.000đ,,8GB + Mở rộng 10GB,256 GB,a_like_new 
+,Xiaomi Redmi Note 12 Pro,4.590.000đ,7.990.000đ,,8 GB,256 GB,a_new 
+,Tecno POVA 3,2.090.000đ,4.990.000đ,,6 GB,128 GB,a_old 
+,Xiaomi 13T,7.090.000đ,12.990.000đ,,8 GB,256 GB,a_old 
+,iPhone 12,8.290.000đ,15.990.000đ,,,64 GB,a_old 
+,iPhone 12,8.490.000đ,17.990.000đ,,,128 GB,a_old 
+,Nubia Red Magic 6S Pro Ghost,6.990.000đ,22.990.000đ,,16 GB,256 GB,a_old 
+,iPhone 11 Pro Max,11.190.000đ,32.000.000đ,,4 GB,256 GB,a_old 
+,Infinix Note 40 Pro,4.090.000đ,5.990.000đ,,8 GB,256 GB,a_old 
+,iPhone 11 Pro Max,11.890.000đ,32.000.000đ,,4 GB,256 GB,a_like_new 
+,iPhone 14 Pro Max,25.990.000đ,29.990.000đ,,6 GB,1 TB,a_old 
+,vivo Y17s,2.490.000đ,3.790.000đ,,4 GB,64 GB,a_new 
+,Điện thoại Tecno Camon 30,4.690.000đ,6.490.000đ,,8 GB,256 GB,a_new 
+,Redmi A2,1.090.000đ,2.190.000đ,,2 GB,32 GB,a_old 
+,Xiaomi 12T,6.090.000đ,12.490.000đ,,8 GB,128 GB,a_old 
+,TECNO SPARK 20C,Giá Liên Hệ,2.690.000đ,,4GB + Mở rộng 4GB,128 GB,a_like_new 
+,iPhone 15 Pro,Giá Liên Hệ,28.990.000đ,,,128 GB,a_new 
+,Xiaomi Redmi A3,Giá Liên Hệ,2.990.000đ,,4 GB,128 GB,a_old 
+,iPhone 15 Pro,23.390.000đ,31.990.000đ,,,256 GB,a_old 
+,Xiaomi 12T,5.590.000đ,12.490.000đ,,8 GB,128 GB,a_old 
+,Xiaomi Poco M3,2.390.000đ,3.990.000đ,,,,a_like_new 
+,vivo Y17s,2.890.000đ,3.790.000đ,,6 GB,128 GB,a_new 
+,iPhone 14 Pro Max,21.790.000đ,29.990.000đ,,6 GB,128 GB,a_old 
+,Xiaomi Redmi Note 11S,2.590.000đ,6.690.000đ,,8 GB,128 GB,a_old 
+,Tecno Camon 20,3.590.000đ,4.990.000đ,,8 GB,256 GB,a_new 
+,iPhone 14 Plus,Giá Liên Hệ,22.990.000đ,,6 GB,128 GB,a_new 
+,Xiaomi Redmi Note 11S,2.490.000đ,6.690.000đ,,8 GB,128 GB,a_old 
+,Samsung Galaxy A12,1.790.000đ,4.290.000đ,,4 GB,128 GB,a_like_new 
+,Samsung Galaxy S10+,7.990.000đ,19.990.000đ,,,128 GB,a_old 
+,Xiaomi Redmi A3,1.890.000đ,2.990.000đ,,4 GB,128 GB,a_like_new 
+,Samsung Galaxy Tab A8 2019,2.030.000đ,2.400.000đ,,2 GB,32 GB,a_like_new 
+,Samsung Galaxy A70,3.700.000đ,9.290.000đ,,,,a_old 
+,Samsung Galaxy S23,8.490.000đ,22.990.000đ,,8 GB,128 GB,a_old 
+,Điện thoại ZTE Blade A54,1.490.000đ,2.290.000đ,,4GB + Mở rộng 4GB,128 GB,a_like_new 
+,POCO M6,2.890.000đ,4.290.000đ,,6 GB,128 GB,a_like_new 
+,iPhone 14,15.290.000đ,19.990.000đ,,6 GB,128 GB,a_new 
+,Apple iPhone 7 Plus,4.090.000đ,10.990.000đ,,,128 GB,a_old 
+,Xiaomi Redmi 12C,1.490.000đ,3.590.000đ,,4 GB,64 GB,a_old 
+,Infinix Hot 40i,1.790.000đ,2.390.000đ,,4 GB,128 GB,a_new 
+,iPhone 11,7.890.000đ,11.990.000đ,,4 GB,64 GB,a_new 
+,iPhone 15 Pro,19.890.000đ,28.990.000đ,,,128 GB,a_old 
+,Realme C53,Giá Liên Hệ,4.790.000đ,,6 GB,128 GB,a_like_new 
+,iPhone 14 Pro Max,Giá Liên Hệ,29.990.000đ,,6 GB,128 GB,a_new 
+,OPPO Find N2 Flip,10.690.000đ,19.990.000đ,,8 GB,256 GB,a_new 
+,iPhone 12,10.990.000đ,23.990.000đ,,4 GB,256 GB,a_like_new 
+,Samsung Galaxy A15 LTE,2.890.000đ,4.990.000đ,,8 GB,128 GB,a_old 
+,Nokia 110,450.000đ,850.000đ,,,128 MB,a_old 
+,iPhone 15,Giá Liên Hệ,25.990.000đ,,6 GB,256 GB,a_old 
+,Xiaomi Redmi Note 12 Pro,3.890.000đ,7.990.000đ,,8 GB,128 GB,a_like_new 
+,Xiaomi Redmi A3,1.990.000đ,2.990.000đ,,4 GB,128 GB,a_like_new 
+,Nokia 3210,890.000đ,1.590.000đ,,,128 MB,a_old 
+,Samsung Galaxy Z Flip3,5.690.000đ,26.990.000đ,,8 GB,128 GB,a_old 
+,Samsung Galaxy Z Fold4,17.090.000đ,44.490.000đ,,12 GB,512 GB,a_like_new 
+,Oppo A15s,1.890.000đ,4.290.000đ,,4 GB,64 GB,a_like_new 
+,INOI Note 13s,1.990.000đ,3.390.000đ,,8 GB,256 GB,a_like_new 
+,Realme C55,3.090.000đ,5.990.000đ,,8 GB,256 GB,a_old 
+,Tecno Pova 6,Giá Liên Hệ,6.490.000đ,,8 GB,256 GB,a_like_new 
+,iPhone 13,13.390.000đ,21.990.000đ,,4 GB,256 GB,a_like_new 
+,OPPO Reno7 Z,3.290.000đ,9.990.000đ,,8 GB,128 GB,a_old 
+,Samsung Galaxy S23 Plus,11.090.000đ,26.990.000đ,,8 GB,256 GB,a_old 
+,Nokia 105,340.000đ,750.000đ,,,128 MB,a_old 
+,OPPO A38,2.190.000đ,2.890.000đ,,4 GB,128 GB,a_old 
+,Điện thoại ZTE Blade A55,1.790.000đ,2.290.000đ,,4 GB,128 GB,a_new 
+,TCL 406S,1.490.000đ,1.990.000đ,,4 GB,64 GB,a_new 
+,OPPO Reno 6,3.590.000đ,4.190.000đ,,,,a_old 
+,iPhone 12 Pro Max,14.590.000đ,37.990.000đ,,6 GB,512 GB,a_old 
+,vivo Y02s,1.590.000đ,3.290.000đ,,3 GB,64 GB,a_old 
+,Infinix Hot 40 Pro Free Fire,2.190.000đ,4.290.000đ,,8 GB,256 GB,a_old 
+,Vivo Y36,3.390.000đ,5.190.000đ,,8 GB,128 GB,a_like_new 
+,iPhone 14 Pro Max,25.990.000đ,32.990.000đ,,,256 GB,a_new 
+,Vivo V25,4.690.000đ,10.490.000đ,,8GB + Mở rộng 8GB,128 GB,a_like_new 
+,realme C60,1.790.000đ,2.790.000đ,,4 GB,64 GB,a_old 
+,realme C51,2.190.000đ,3.290.000đ,,4GB + Mở rộng 4GB,64 GB,a_like_new 
+,Realme C35,1.890.000đ,4.990.000đ,,4 GB,128 GB,a_old 
+,iPhone 15,Giá Liên Hệ,22.990.000đ,,,128 GB,a_new 
+,Samsung Galaxy S23 FE,9.590.000đ,14.890.000đ,,8 GB,256 GB,a_like_new 
+,ZTE Blade A52,890.000đ,2.490.000đ,,3 GB,64 GB,a_old 
+,Masstel izi T2,350.000đ,500.000đ,,48MB,128 MB,a_old 
+,Oppo A92,2.790.000đ,6.490.000đ,,8 GB,128 GB,a_old 
+,Samsung Galaxy S23 FE,Giá Liên Hệ,14.890.000đ,,8 GB,256 GB,a_new 
+,iPhone 15 Pro,20.890.000đ,28.990.000đ,,,128 GB,a_old 
+,Xiaomi Redmi Note 12,3.490.000đ,4.990.000đ,,8 GB,128 GB,a_like_new 
+,Samsung Galaxy A03s,1.790.000đ,3.690.000đ,,4 GB,64 GB,a_old 
+,Realme C55,2.590.000đ,4.990.000đ,,6 GB,128 GB,a_old 
+,OPPO A76,2.790.000đ,5.990.000đ,,6 GB,128 GB,a_like_new 
+,Xiaomi Redmi 12C,1.690.000đ,3.590.000đ,,4 GB,64 GB,a_like_new 
+,Xiaomi Redmi Note 11S,2.890.000đ,6.690.000đ,,8 GB,128 GB,a_like_new 
+,TECNO POVA 5,3.090.000đ,5.290.000đ,,8 GB,256 GB,a_old 
+,Tecno Camon 20 Pro,3.290.000đ,5.490.000đ,,8 GB,256 GB,a_old 
+,Nokia C30,1.190.000đ,2.990.000đ,,2 GB,32 GB,a_old 
+,Xiaomi Poco M6,2.590.000đ,3.190.000đ,,6 GB,128 GB,a_old 
+,Samsung Galaxy Note 20,6.990.000đ,17.990.000đ,,8 GB,256 GB,a_old 
+,Samsung Galaxy A05,1.790.000đ,3.090.000đ,,4 GB,128 GB,a_old 
+,Samsung Galaxy S20 FE,4.690.000đ,12.490.000đ,,8 GB,256 GB,a_old 
+,Nokia C21 Plus,1.490.000đ,3.190.000đ,,3 GB,64 GB,a_like_new 
+,Xiaomi Redmi Note 13 Pro,5.390.000đ,6.390.000đ,,8 GB,256 GB,a_like_new 
+,Realme C55,3.390.000đ,5.990.000đ,,8 GB,256 GB,a_like_new 
+,Samsung Galaxy A35,6.390.000đ,8.290.000đ,,8 GB,256 GB,a_new 
+,Xiaomi Poco F4,3.690.000đ,8.990.000đ,,6 GB,128 GB,a_old 
+,Samsung Galaxy M14,Giá Liên Hệ,5.290.000đ,,4 GB,64 GB,a_like_new 
+,Samsung Galaxy A02s,1.090.000đ,3.590.000đ,,4 GB,64 GB,a_old 
+,Realme C35,2.290.000đ,4.990.000đ,,4 GB,128 GB,a_old 
+,Vivo Y02s,1.490.000đ,3.290.000đ,,3 GB,32 GB,a_like_new 
+,Samsung Galaxy S23,Giá Liên Hệ,22.990.000đ,,8 GB,128 GB,a_old 
+,Realme C30s,1.290.000đ,2.490.000đ,,2 GB,32 GB,a_like_new 
+,Vivo Y21S,2.390.000đ,4.990.000đ,,4 GB,128 GB,a_like_new 
+,Samsung Galaxy Z Flip4,7.290.000đ,25.990.000đ,,8 GB,256 GB,a_old 
+,Realme C53,3.090.000đ,4.790.000đ,,8 GB,256 GB,a_like_new 
+,Realme C33,1.390.000đ,3.490.000đ,,3 GB,32 GB,a_old 
+,Samsung Galaxy A50,2.800.000đ,7.990.000đ,,6 GB,128 GB,a_old 
+,OPPO A95,2.590.000đ,6.990.000đ,,8 GB,128 GB,a_old 
+,Infinix Hot 30i,1.290.000đ,2.790.000đ,,4GB + Mở rộng 4GB,128 GB,a_old 
+,Tecno Spark Go,1.590.000đ,2.490.000đ,,4GB + Mở rộng 3GB,64 GB,a_like_new 
+,Xiaomi POCO M5s,2.790.000đ,5.290.000đ,,6 GB,128 GB,a_like_new 
+,Samsung Galaxy S23,11.290.000đ,24.990.000đ,,8 GB,256 GB,a_like_new 
+,Xiaomi Redmi Note 13 Pro,4.290.000đ,7.290.000đ,,8 GB,128 GB,a_old 
+,Samsung Galaxy M14,3.090.000đ,5.290.000đ,,4 GB,128 GB,a_new 
+,Tecno Spark 10 Pro,2.390.000đ,3.990.000đ,,8 GB,128 GB,a_old 
+,Vivo Y36,Giá Liên Hệ,5.190.000đ,,8 GB,128 GB,a_old 
+,Nokia T20,2.090.000đ,6.290.000đ,,4 GB,64 GB,a_old 
+,Xiaomi Redmi Note 11 Pro,4.090.000đ,8.990.000đ,,8 GB,128 GB,a_like_new 
+,Samsung Galaxy S22,7.290.000đ,21.990.000đ,,8 GB,128 GB,a_old 
+,Samsung Galaxy Z Flip4,8.990.000đ,23.990.000đ,,8 GB,128 GB,a_new 
+,Samsung Galaxy S22 Plus,8.190.000đ,25.990.000đ,,8 GB,128 GB,a_old 
+,Samsung Galaxy A35,5.290.000đ,8.290.000đ,,8 GB,128 GB,a_old 
+,Samsung Galaxy A15 LTE,3.890.000đ,4.990.000đ,,8 GB,256 GB,a_new 
+,iPhone 12 Pro Max,15.290.000đ,28.990.000đ,,,128 GB,a_like_new 
+,iPhone 15 Pro Max,Giá Liên Hệ,40.990.000đ,,,512 GB,a_new 
+,Samsung Galaxy A15 LTE,3.490.000đ,4.990.000đ,,8 GB,256 GB,a_like_new 
+,Samsung Galaxy S23 FE,9.490.000đ,14.890.000đ,,8 GB,128 GB,a_new 
+,Samsung Galaxy A05S,2.990.000đ,3.990.000đ,,6 GB,128 GB,a_like_new 
+,Oppo A73,2.690.000đ,5.490.000đ,,6 GB,128 GB,a_old 
+,OPPO A96,2.990.000đ,6.990.000đ,,8 GB,128 GB,a_old 
+,Samsung Galaxy M14,Giá Liên Hệ,5.290.000đ,,4 GB,128 GB,a_old 
+,Samsung Galaxy A53,4.090.000đ,9.990.000đ,,8 GB,128 GB,a_old 
+,Samsung Galaxy M14,3.390.000đ,5.290.000đ,,4 GB,128 GB,a_old 
+,Realme C20,890.000đ,2.690.000đ,,2 GB,32 GB,a_old 
+,Xiaomi Redmi 10,1.890.000đ,3.650.000đ,,4 GB,64 GB,a_old 
+,Vivo X80 Pro,8.390.000đ,29.990.000đ,,12 GB,256 GB,a_old 
+,Tecno Spark 10 Pro,2.090.000đ,4.490.000đ,,8 GB,256 GB,a_old 
+,Xiaomi Redmi A3,1.790.000đ,2.990.000đ,,4 GB,128 GB,a_old 
+,OPPO A18,2.290.000đ,3.990.000đ,,4 GB,64 GB,a_like_new 
+,Xiaomi Redmi Note 11 Pro,3.690.000đ,8.990.000đ,,8 GB,128 GB,a_old 
+,iPhone 15 Pro,Giá Liên Hệ,31.990.000đ,,,256 GB,a_new 
+,Masstel izi S3,350.000đ,470.000đ,,,16 GB,a_like_new 
+,Samsung Galaxy Z Flip4,7.890.000đ,25.990.000đ,,8 GB,256 GB,a_old 
+,Xiaomi Mi 11 Lite,4.290.000đ,9.490.000đ,,6 GB,128 GB,a_old 
+,Nokia 215,450.000đ,960.000đ,,,128 MB,a_old 
+,Samsung Galaxy Z Fold3,13.490.000đ,44.990.000đ,,12 GB,512 GB,a_like_new 
+,OPPO A95,2.890.000đ,6.990.000đ,,8 GB,128 GB,a_old 
+,Vivo Y12s,1.990.000đ,3.290.000đ,,3 GB,32 GB,a_like_new 
+,Xiaomi Redmi Note 10 Pro,3.290.000đ,7.490.000đ,,8 GB,128 GB,a_old 
+,iPhone 14,18.590.000đ,25.990.000đ,,6 GB,256 GB,a_new 
+,Infinix Hot 40i,1.590.000đ,2.390.000đ,,4 GB,128 GB,a_like_new 
+,Xiaomi Redmi Note 12S,3.590.000đ,6.690.000đ,,8 GB,256 GB,a_like_new 
+,Samsung Galaxy A03,1.390.000đ,2.990.000đ,,3 GB,32 GB,a_like_new 
+,realme C51,2.690.000đ,4.490.000đ,,6 GB,256 GB,a_like_new 
+,OPPO Reno7,3.190.000đ,7.990.000đ,,8 GB,128 GB,a_old 
+,Apple iPhone XS Max,6.590.000đ,25.000.000đ,,,64 GB,a_old 
+,Vivo X70 Pro,8.390.000đ,19.990.000đ,,12 GB,256 GB,a_like_new 
+,Infinix Hot 30i,1.690.000đ,3.290.000đ,,8GB + Mở rộng 8GB,128 GB,a_like_new 
+,Samsung Galaxy A05,2.390.000đ,3.090.000đ,,6 GB,128 GB,a_like_new 
+,iPhone 14 Pro,Giá Liên Hệ,27.990.000đ,,,128 GB,a_new 
+,Samsung Galaxy A05S,2.790.000đ,3.990.000đ,,6 GB,128 GB,a_old 
+,Vsmart Aris,2.890.000đ,5.990.000đ,,6 GB,64 GB,a_old 
+,Realme C21Y,1.990.000đ,4.290.000đ,,4 GB,64 GB,a_old 
+,Samsung Galaxy A05,1.790.000đ,3.090.000đ,,6 GB,128 GB,a_old 
+,Vivo Y35,2.890.000đ,6.990.000đ,,8GB + Mở rộng 8GB,128 GB,a_old 
+,Xiaomi Redmi 10C,1.690.000đ,3.890.000đ,,4 GB,64 GB,a_like_new 
+,Điện thoại Sony Xperia 1V,23.490.000đ,35.990.000đ,,12 GB,256 GB,a_new 
+,Samsung Galaxy A05,Giá Liên Hệ,3.090.000đ,,4 GB,128 GB,a_old 
+,Samsung Galaxy A05S,2.090.000đ,3.990.000đ,,4 GB,128 GB,a_old 
+,OPPO Reno12 F,8.190.000đ,9.490.000đ,,12 GB,256 GB,a_new 
+,Samsung Galaxy S23 Ultra,18.790.000đ,31.990.000đ,,8 GB,256 GB,a_new 
+,Điện thoại ZTE Blade A72,1.090.000đ,2.490.000đ,,3 GB,128 GB,a_old 
+,Xiaomi 13T Pro,10.290.000đ,16.990.000đ,,12 GB,256 GB,a_like_new 
+,Samsung Galaxy A30s,3.000.000đ,6.290.000đ,,4 GB,64 GB,a_like_new 
+,Samsung Galaxy A55,7.590.000đ,9.990.000đ,,8 GB,256 GB,a_like_new 
+,Samsung Galaxy A12,1.590.000đ,4.290.000đ,,4 GB,128 GB,a_old 
