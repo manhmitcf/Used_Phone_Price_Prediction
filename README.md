@@ -40,7 +40,7 @@ This project aims to build a model for predicting the prices of old phones based
 
 ### Step 1: Clone the repository
    ```bash
-   git clone https://github.com/username/phone-price-prediction.git
+   git clone https://github.com/manhmitcf/Used_Phone_Price_Prediction.git
    ```
 
 ### Step 2: Create `requirements.txt`
