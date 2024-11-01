@@ -1,0 +1,941 @@
+phone_name,condition1,oldprice,newprice,ram,rom
+iPhone 14 Pro Max,Cũ Trầy Xước,21.590.000đ,29.990.000đ,6 GB,128 GB
+Samsung Galaxy Z Fold5,Đã Kích Hoạt,23.290.000đ,40.990.000đ,12 GB,256 GB
+Samsung Galaxy Z Flip5,Đã Kích Hoạt,12.590.000đ,25.990.000đ,8 GB,256 GB
+iPhone 15 Pro Max,Cũ Đẹp,26.690.000đ,34.990.000đ,,256 GB
+iPhone 14 Pro Max,Cũ Đẹp,22.590.000đ,29.990.000đ,6 GB,128 GB
+Samsung Galaxy Z Flip5,Cũ Đẹp,12.690.000đ,,8 GB,512 GB
+iPhone 13 Pro Max,Cũ đẹp,17.290.000đ,31.990.000đ,6 GB,256 GB
+iPhone 14 Pro Max,Cũ Trầy Xước,22.590.000đ,32.990.000đ,,256 GB
+iPhone 14 Pro Max,Cũ Đẹp,23.590.000đ,32.990.000đ,,256 GB
+Samsung Galaxy Z Fold5,Cũ Đẹp,22.790.000đ,44.990.000đ,12 GB,512 GB
+OPPO Reno10,Cũ Đẹp,6.490.000đ,10.990.000đ,8 GB,256 GB
+iPhone 12 Pro Max,Cũ Trầy Xước,14.290.000đ,28.990.000đ,,128 GB
+OPPO Reno8 T,Cũ Đẹp,4.790.000đ,,8 GB,128 GB
+iPhone 13 Pro Max,Cũ trầy xước,16.290.000đ,31.990.000đ,6 GB,128 GB
+iPhone 14 Pro Max,Cũ Xước Cấn,20.590.000đ,29.990.000đ,6 GB,128 GB
+Samsung Galaxy M34,Đã Kích Hoạt,4.790.000đ,7.990.000đ,8 GB,128 GB
+Điện thoại Sony Xperia 1V,Cũ Đẹp,20.590.000đ,35.990.000đ,12 GB,256 GB
+iPhone 11,Cũ Đẹp,6.990.000đ,11.990.000đ,4 GB,64 GB
+iPhone 13 Pro,Cũ đẹp,15.590.000đ,23.990.000đ,6 GB,128 GB
+Xiaomi Redmi Note 13 Pro,Đã Kích Hoạt,5.290.000đ,7.290.000đ,8 GB,128 GB
+iPhone 13 Pro,Cũ đẹp,15.590.000đ,23.990.000đ,6 GB,128 GB
+iPhone 11 Pro,cũ đẹp,8.290.000đ,25.000.000đ,,
+iPhone 8 Plus,cũ đẹp,4.590.000đ,15.000.000đ,3 GB,64 GB
+iPhone 14 Pro,Cũ Đẹp,20.390.000đ,29.990.000đ,6 GB,256 GB
+iPhone 11,Cũ Đẹp,7.990.000đ,13.990.000đ,4 GB,128 GB
+iPhone 14 Plus,Cũ Đẹp,16.090.000đ,24.990.000đ,6 GB,128 GB
+iPhone 15 Pro,Đã Kích Hoạt,22.890.000đ,28.990.000đ,,128 GB
+iPhone 13 Pro Max,Cũ trầy xước,16.290.000đ,31.990.000đ,6 GB,128 GB
+iPhone 13,Cũ Đẹp,13.590.000đ,21.990.000đ,4 GB,256 GB
+Apple iPhone 7 Plus,Cũ đẹp,4.890.000đ,27.590.000đ,,256 GB
+iPhone 15 Pro,Cũ Đẹp,21.890.000đ,28.990.000đ,,128 GB
+iPhone 14 Pro Max,Cũ Xước Cấn,20.590.000đ,29.990.000đ,6 GB,128 GB
+Samsung Galaxy S24 Ultra,Cũ Đẹp,21.790.000đ,33.990.000đ,12 GB,256 GB
+Xiaomi POCO X6 Pro,Đã Kích Hoạt,7.090.000đ,9.990.000đ,8 GB,256 GB
+iPhone 15 Plus,Cũ Đẹp,19.390.000đ,25.990.000đ,,128 GB
+Samsung Galaxy A55,Đã Kích Hoạt,7.790.000đ,9.990.000đ,8 GB,128 GB
+Xiaomi Poco M6,Đã Kích Hoạt,3.190.000đ,,6 GB,128 GB
+Xiaomi 13,Cũ Đẹp,11.590.000đ,22.990.000đ,8 GB,256 GB
+iPhone 12,Cũ Đẹp,8.990.000đ,,,64 GB
+iPhone 14,Cũ Đẹp,14.290.000đ,22.990.000đ,6 GB,128 GB
+Samsung Galaxy Z Fold5,Cũ Đẹp,21.790.000đ,40.990.000đ,12 GB,256 GB
+iPhone 12 Pro,Cũ Đẹp,13.090.000đ,28.990.000đ,,256 GB
+Samsung Galaxy Z Flip5,Đã Kích Hoạt,12.590.000đ,25.990.000đ,8 GB,256 GB
+Xiaomi Redmi Note 13 Pro,Đã Kích Hoạt,5.290.000đ,7.290.000đ,8 GB,128 GB
+Samsung Galaxy Z Fold5,Cũ Đẹp,22.790.000đ,44.990.000đ,12 GB,512 GB
+Samsung Galaxy S22 Ultra,Cũ Đẹp,13.790.000đ,33.990.000đ,12 GB,256 GB
+iPhone 15 Plus,Chính hãng Đã kích hoạt,22.590.000đ,28.990.000đ,,256 GB
+iPhone 14 Pro Max,Cũ Trầy Xước,24.590.000đ,38.990.000đ,,512 GB
+iPhone 14 Pro,Cũ Trầy Xước,18.390.000đ,27.990.000đ,,128 GB
+iPhone 11,Cũ Trầy Xước,6.490.000đ,11.990.000đ,4 GB,64 GB
+Xiaomi Redmi Note 12,Cũ Đẹp,2.990.000đ,4.990.000đ,4 GB,128 GB
+iPhone 14 Pro Max,Cũ Trầy Xước,22.590.000đ,32.990.000đ,,256 GB
+iPhone 15 Plus,Đã Kích Hoạt,20.390.000đ,25.990.000đ,,128 GB
+iPhone 12,Cũ Đẹp,9.990.000đ,17.990.000đ,,128 GB
+iPhone 12 mini,Cũ Đẹp,8.690.000đ,,,128 GB
+iPhone XS Max,Cũ trầy xước,6.590.000đ,25.000.000đ,,64 GB
+Samsung Galaxy S23,Đã Kích Hoạt,11.090.000đ,22.990.000đ,8 GB,128 GB
+Samsung Galaxy Z Fold5,Đã Kích Hoạt,23.290.000đ,40.990.000đ,12 GB,256 GB
+Samsung Galaxy S22,Cũ đẹp,8.490.000đ,21.990.000đ,8 GB,128 GB
+iPhone 11,Đã kích hoạt bảo hành VN/A,7.790.000đ,11.990.000đ,4 GB,64 GB
+Xiaomi Redmi Note 12,Cũ Trầy Xước,2.690.000đ,4.990.000đ,4 GB,128 GB
+Nubia Neo 2,Đã Kích Hoạt,3.990.000đ,5.490.000đ,8 GB,256 GB
+iPhone X,Cũ đẹp,5.890.000đ,,,256 GB
+Xiaomi Redmi Note 13 Pro Plus,Đã Kích Hoạt,7.890.000đ,10.990.000đ,8 GB,256 GB
+OPPO Reno10,Cũ Đẹp,6.490.000đ,10.990.000đ,8 GB,256 GB
+iPhone 12 Pro Max,Cũ đẹp,16.790.000đ,37.990.000đ,6 GB,512 GB
+Samsung Galaxy S23,Cũ Đẹp,10.690.000đ,22.990.000đ,8 GB,128 GB
+OPPO A58,Đã Kích Hoạt,3.590.000đ,4.990.000đ,6 GB,128 GB
+Samsung Galaxy A05,Đã Kích Hoạt,2.390.000đ,3.090.000đ,4 GB,128 GB
+Samsung Galaxy Z Flip5,Cũ Đẹp,11.390.000đ,25.990.000đ,8 GB,256 GB
+iPhone 11 Pro,Cũ đẹp,9.890.000đ,28.000.000đ,4 GB,256 GB
+Xiaomi 13 Pro,Cũ Đẹp,15.590.000đ,29.990.000đ,12 GB,256 GB
+iPhone 15,Đã Kích Hoạt,20.590.000đ,25.990.000đ,6 GB,256 GB
+iPhone 8,cũ đẹp,3.290.000đ,,,64 GB
+Xiaomi 12 Pro,Cũ Trầy Xước,7.990.000đ,27.990.000đ,12 GB,256 GB
+iPhone 13 mini,Cũ Đẹp,10.790.000đ,21.990.000đ,4 GB,128 GB
+iPhone 11,Cũ Trầy Xước,7.490.000đ,13.990.000đ,4 GB,128 GB
+Samsung Galaxy M34,Đã Kích Hoạt,4.790.000đ,7.990.000đ,8 GB,128 GB
+iPhone 12 Pro Max,Cũ Trầy Xước,15.290.000đ,31.990.000đ,,256 GB
+Xiaomi Redmi 14C,Đã Kích Hoạt,2.590.000đ,3.290.000đ,4 GB,128 GB
+iPhone 13 VN/A,đã kích hoạt,12.990.000đ,18.990.000đ,4 GB,128 GB
+Samsung Galaxy Note 10+,Cũ đẹp,9.490.000đ,26.990.000đ,12 GB,256 GB
+Xiaomi Redmi Note 13,Cũ Đẹp,3.690.000đ,,8 GB,128 GB
+iPhone XS,Cũ trầy xước,5.290.000đ,22.000.000đ,,64 GB
+Samsung Galaxy S24 Ultra,Đã Kích Hoạt,23.290.000đ,33.990.000đ,12 GB,256 GB
+iPhone 15,Đã Kích Hoạt,17.790.000đ,22.990.000đ,,128 GB
+Xiaomi 14 Ultra,Đã Kích Hoạt,24.090.000đ,32.990.000đ,16 GB,512 GB
+iPhone 15 Pro,Cũ Đẹp,24.390.000đ,31.990.000đ,,256 GB
+Samsung Galaxy Z Flip4,Cũ Đẹp,7.790.000đ,23.990.000đ,8 GB,128 GB
+iPhone 12,Cũ đẹp,8.990.000đ,,,64 GB
+Samsung Galaxy S22 Ultra,Cũ Trầy Xước,13.090.000đ,33.990.000đ,12 GB,256 GB
+Samsung Galaxy S23 Ultra,Cũ Đẹp,19.790.000đ,36.990.000đ,12 GB,512 GB
+iPhone 11 Pro,Cũ Trầy xước,7.690.000đ,25.000.000đ,4 GB,64 GB
+iPhone 12 Pro,Cũ Trầy Xước,11.390.000đ,26.990.000đ,,128 GB
+Apple iPhone 7 Plus,Cũ đẹp,3.590.000đ,9.990.000đ,,32 GB
+iPhone 13,Cũ trầy xước,11.290.000đ,18.990.000đ,4 GB,128 GB
+Apple iPhone 7 Plus,Cũ đẹp,4.490.000đ,10.990.000đ,,128 GB
+iPhone 14 Plus,Cũ Đẹp,18.690.000đ,25.990.000đ,6 GB,256 GB
+iPhone XR,Cũ đẹp,6.190.000đ,16.990.000đ,,128 GB
+OPPO Reno8 T,Cũ Đẹp,4.790.000đ,,8 GB,128 GB
+iPhone 14,Cũ Đẹp,16.090.000đ,25.990.000đ,6 GB,256 GB
+Samsung Galaxy S21 Ultra,Cũ trầy xước,8.390.000đ,33.990.000đ,12 GB,128 GB
+Infinix Note 40 Pro,Đã Kích Hoạt,4.990.000đ,5.990.000đ,8 GB,256 GB
+iPhone 14,Cũ Trầy Xước,13.590.000đ,19.990.000đ,6 GB,128 GB
+Samsung Galaxy Z Fold4,Cũ Trầy Xước,15.090.000đ,40.990.000đ,12 GB,256 GB
+Xiaomi 12T Pro,Cũ Xước Cấn,7.490.000đ,16.990.000đ,12 GB,256 GB
+iPhone 14 Pro,Đã Kích Hoạt,20.390.000đ,27.990.000đ,,128 GB
+Samsung Galaxy A05S,Đã Kích Hoạt,2.990.000đ,3.990.000đ,4 GB,128 GB
+OPPO A77s,Đã Kích Hoạt,3.890.000đ,6.290.000đ,8 GB,128 GB
+iPhone 15 Pro,Đã Kích Hoạt,25.390.000đ,31.990.000đ,,256 GB
+iPhone 13 Pro,Cũ Đẹp,16.590.000đ,,6 GB,256 GB
+iPhone 14,Đã Kích Hoạt,15.290.000đ,19.990.000đ,6 GB,128 GB
+Xiaomi Redmi Note 11 Pro,Cũ Đẹp,3.890.000đ,7.490.000đ,8 GB,128 GB
+Samsung Galaxy S24,Đã Kích Hoạt,15.290.000đ,22.990.000đ,8 GB,256 GB
+iPhone 13 Pro Max,Cũ Trầy Xước,17.390.000đ,31.990.000đ,6 GB,256 GB
+iPhone XS Max,Cũ trầy xước,7.490.000đ,28.500.000đ,,256 GB
+Nubia Neo 2,Đã Kích Hoạt,3.990.000đ,5.490.000đ,8 GB,256 GB
+Samsung Galaxy S21 Ultra,Cũ Xước Cấn,8.590.000đ,33.990.000đ,12 GB,256 GB
+OPPO Reno10 Pro,Cũ Trầy Xước,7.290.000đ,,12 GB,256 GB
+Samsung Galaxy Z Fold4,Cũ Đẹp,16.090.000đ,40.990.000đ,12 GB,256 GB
+Samsung Galaxy S21 Plus,Cũ Đẹp,7.090.000đ,,8 GB,128 GB
+Samsung Galaxy S22 Ultra,Cũ Trầy Xước,12.390.000đ,30.990.000đ,8 GB,128 GB
+iPhone XR,Cũ trầy xước,5.090.000đ,11.990.000đ,,64 GB
+iPhone 14 Pro Max,Cũ Đẹp,25.590.000đ,38.990.000đ,,512 GB
+Samsung Galaxy Z Flip4,Cũ Đẹp,8.490.000đ,25.990.000đ,8 GB,256 GB
+Samsung Galaxy M55,Đã Kích Hoạt,8.890.000đ,12.690.000đ,12 GB,256 GB
+iPhone 13,Cũ Xước Cấn,10.490.000đ,17.290.000đ,4 GB,128 GB
+iPhone 15,Cũ Đẹp,19.590.000đ,25.990.000đ,6 GB,256 GB
+Samsung Galaxy Z Fold4,Cũ Xước Cấn,14.090.000đ,40.990.000đ,12 GB,256 GB
+Oppo Reno8,Cũ Đẹp,4.390.000đ,,8 GB,256 GB
+iPhone 15 Pro Max,Cũ Đẹp,29.990.000đ,40.990.000đ,,512 GB
+Samsung Galaxy S21 FE,Cũ Trầy Xước,6.390.000đ,16.990.000đ,8 GB,128 GB
+Điện thoại ZTE Blade A54,Đã Kích Hoạt,1.690.000đ,2.290.000đ,4GB + Mở rộng 4GB,128 GB
+iPhone 14 Pro Max,Cũ Xước Cấn,21.590.000đ,32.990.000đ,,256 GB
+Samsung Galaxy S22 Plus,Cũ Đẹp,9.690.000đ,25.990.000đ,8 GB,128 GB
+Samsung Galaxy S23 FE,Cũ Đẹp,8.590.000đ,14.890.000đ,8 GB,128 GB
+Samsung Galaxy S22 Ultra,Cũ Xước Cấn,12.290.000đ,33.990.000đ,12 GB,256 GB
+iPhone 13 Pro,Cũ trầy xước,14.590.000đ,23.990.000đ,6 GB,128 GB
+vivo Y36,Đã Kích Hoạt,3.790.000đ,5.190.000đ,8 GB,128 GB
+OPPO Reno8,Cũ Đẹp,5.590.000đ,13.990.000đ,8 GB,256 GB
+Realme 10,Cũ Đẹp,3.390.000đ,7.190.000đ,8 GB,256 GB
+iPhone 14 Pro,Cũ Trầy Xước,19.190.000đ,29.990.000đ,6 GB,256 GB
+Samsung Galaxy S23 Ultra,Cũ Trầy Xước,16.290.000đ,31.990.000đ,8 GB,256 GB
+OPPO Find N2 Flip,Cũ Đẹp,9.690.000đ,19.990.000đ,8 GB,256 GB
+Vivo V25 Pro,Đã Kích Hoạt,5.890.000đ,13.990.000đ,8GB + Mở rộng 8GB,128 GB
+Samsung Galaxy A25,Đã Kích Hoạt,4.990.000đ,6.590.000đ,6 GB,128 GB
+iPhone 15 Plus,Cũ Trầy Xước,18.390.000đ,25.990.000đ,,128 GB
+Samsung Galaxy A32,Cũ xước cấn,2.790.000đ,6.490.000đ,6 GB,128 GB
+Oneplus 10T,Cũ Trầy Xước,8.790.000đ,17.990.000đ,16 GB,256 GB
+iPhone XS,Cũ trầy xước,6.290.000đ,,,256 GB
+Samsung Galaxy A12,Cũ trầy xước,2.790.000đ,4.290.000đ,6 GB,128 GB
+Samsung Galaxy S21 FE,Cũ Đẹp,6.190.000đ,11.490.000đ,6 GB,128 GB
+iPhone XS Max,Cũ đẹp,8.590.000đ,28.500.000đ,,512 GB
+OPPO Reno8,Cũ Trầy Xước,5.090.000đ,13.990.000đ,8 GB,256 GB
+OPPO Reno11 F,Cũ Xước Cấn,4.990.000đ,8.990.000đ,8 GB,256 GB
+iPhone 13,Cũ Trầy Xước,12.890.000đ,21.990.000đ,4 GB,256 GB
+Samsung Galaxy Z Flip5,Đã Kích Hoạt,13.890.000đ,,8 GB,512 GB
+iPhone 15 Pro Max,Cũ Xước Cấn,24.690.000đ,34.990.000đ,,256 GB
+OPPO A78,Cũ Trầy Xước,4.190.000đ,6.990.000đ,8 GB,256 GB
+Samsung Galaxy A14,Cũ Trầy Xước,2.290.000đ,4.490.000đ,4 GB,128 GB
+OPPO Reno11 F,Cũ Đẹp,5.990.000đ,8.990.000đ,8 GB,256 GB
+iPhone 15 Pro Max,Đã kích hoạt,27.690.000đ,34.990.000đ,,256 GB
+OPPO A78,Cũ Xước Cấn,3.790.000đ,6.990.000đ,8 GB,256 GB
+Samsung Galaxy S22,Cũ Trầy Xước,7.890.000đ,21.990.000đ,8 GB,128 GB
+OPPO Reno11 F,Đã Kích Hoạt,6.590.000đ,8.990.000đ,8 GB,256 GB
+iPhone 12 Pro,Cũ Trầy Xước,12.390.000đ,28.990.000đ,,256 GB
+Samsung Galaxy S21 FE,Cũ Đẹp,6.890.000đ,16.990.000đ,8 GB,128 GB
+Samsung Galaxy Z Fold6,Đã Kích Hoạt,33.290.000đ,43.990.000đ,12 GB,256 GB
+iPhone 12 mini,Cũ đẹp,7.690.000đ,,,64 GB
+ZTE Blade V50 Design,Đã Kích Hoạt,2.390.000đ,3.290.000đ,8GB + Mở rộng 10GB,256 GB
+Samsung Galaxy Tab S6 Lite,Cũ đẹp,3.490.000đ,,4 GB,64 GB
+OPPO A17,Cũ Đẹp,2.140.000đ,3.990.000đ,4 GB,64 GB
+iPhone SE 2020,Cũ trầy xước,5.090.000đ,,3 GB,128 GB
+Samsung Galaxy Z Flip5,Cũ Đẹp,12.690.000đ,,8 GB,512 GB
+ASUS ROG Phone 6,Cũ Trầy Xước,10.290.000đ,18.990.000đ,12 GB,256 GB
+iPhone 12 mini,Cũ đẹp,9.690.000đ,20.990.000đ,4 GB,256 GB
+OPPO Reno8 Pro,Cũ Đẹp,7.690.000đ,18.990.000đ,12 GB,256 GB
+Xiaomi 12 Pro,Cũ Đẹp,8.590.000đ,27.990.000đ,12 GB,256 GB
+Apple iPhone 6S,cũ,2.090.000đ,7.000.000đ,,32 GB
+Samsung Galaxy M34,Cũ Trầy Xước,3.890.000đ,7.990.000đ,8 GB,128 GB
+iPhone 12,Cũ Trầy Xước,9.290.000đ,17.990.000đ,,128 GB
+iPhone 12,Đã kích hoạt,9.990.000đ,15.990.000đ,,64 GB
+iPhone 14 Plus,Cũ Trầy Xước,15.390.000đ,24.990.000đ,6 GB,128 GB
+Oppo A53,Cũ,2.290.000đ,4.490.000đ,4 GB,128 GB
+Xiaomi Redmi Note 12 Pro,Cũ Đẹp,4.290.000đ,9.490.000đ,8 GB,256 GB
+Samsung Galaxy S24 Ultra,Cũ Trầy Xước,20.790.000đ,33.990.000đ,12 GB,256 GB
+Điện thoại Sony Xperia 10V,Cũ Đẹp,6.690.000đ,12.490.000đ,8 GB,128 GB
+OPPO A3X,Cũ Đẹp,3.290.000đ,,6 GB,128 GB
+iPhone 12 mini,Cũ trầy xước,8.990.000đ,20.990.000đ,4 GB,256 GB
+Xiaomi 13 Lite,Cũ Trầy Xước,5.590.000đ,11.490.000đ,8 GB,256 GB
+Samsung Galaxy Z Fold3,Cũ Xước Cấn,11.490.000đ,44.990.000đ,12 GB,512 GB
+Tecno Pova 6,Đã Kích Hoạt,4.990.000đ,6.490.000đ,8 GB,256 GB
+iPhone 11,Cũ Đẹp,8.990.000đ,19.990.000đ,4 GB,256 GB
+POCO M6,Đã Kích Hoạt,3.190.000đ,4.290.000đ,6 GB,128 GB
+Apple iPhone 12,Cũ Trầy Xước,8.290.000đ,,,64 GB
+iPhone 13 Pro,Cũ Trầy Xước,15.590.000đ,26.990.000đ,6 GB,256 GB
+Xiaomi Redmi Note 13 Pro,Cũ Đẹp,4.790.000đ,7.290.000đ,8 GB,128 GB
+Xiaomi 14 Ultra,Cũ Đẹp,22.090.000đ,32.990.000đ,16 GB,512 GB
+OPPO Find X5 Pro,Cũ Trầy Xước,11.590.000đ,19.990.000đ,12 GB,256 GB
+OPPO Reno7 Z,Cũ Đẹp,3.590.000đ,9.990.000đ,8 GB,128 GB
+iPhone 13 mini,Cũ Trầy Xước,9.990.000đ,21.990.000đ,4 GB,128 GB
+Samsung Galaxy S23 FE,Đã Kích Hoạt,9.490.000đ,14.890.000đ,8 GB,128 GB
+Samsung Galaxy Z Fold3,Cũ trầy xước,11.490.000đ,44.990.000đ,12 GB,256 GB
+Realme C53,Đã Kích Hoạt,3.290.000đ,4.790.000đ,8 GB,256 GB
+Samsung Galaxy S22 Ultra,Cũ Xước Cấn,13.590.000đ,36.990.000đ,12 GB,512 GB
+OPPO Reno12,Đã Kích Hoạt,10.590.000đ,12.990.000đ,12 GB,256 GB
+iPhone 14 Pro Max,Cũ Xước Cấn,23.590.000đ,38.990.000đ,,512 GB
+Xiaomi 13 Pro,Cũ Xước Cấn,12.590.000đ,29.990.000đ,8 GB,256 GB
+iPhone 15 Plus,Cũ Đẹp,21.590.000đ,28.990.000đ,,256 GB
+OPPO Reno8 T,Cũ Trầy Xước,4.590.000đ,,8 GB,128 GB
+Xiaomi 13T,Cũ Đẹp,7.890.000đ,12.990.000đ,8 GB,256 GB
+Samsung Galaxy M54,Cũ Trầy Xước,5.990.000đ,,8 GB,256 GB
+iPhone 14 Pro Max,Cũ Trầy Xước,22.590.000đ,32.990.000đ,,256 GB
+iPhone 12,Cũ Xước Cấn,7.490.000đ,15.990.000đ,,64 GB
+Vivo X80,Cũ Đẹp,7.890.000đ,19.990.000đ,12 GB,256 GB
+Samsung Galaxy A33,Cũ Xước Cấn,3.290.000đ,7.290.000đ,6 GB,128 GB
+Điện thoại Sony Xperia 10 V,Đã Kích Hoạt,7.390.000đ,12.490.000đ,8 GB,128 GB
+Samsung Galaxy Z Flip6,Đã Kích Hoạt,21.590.000đ,28.990.000đ,12 GB,256 GB
+Điện thoại Nubia Music NFC,Đã Kích Hoạt,1.890.000đ,2.490.000đ,4 GB,128 GB
+Apple iPhone 8 Plus,Cũ Trầy xước,4.090.000đ,15.000.000đ,,64 GB
+Apple iPhone 7 Plus,Cũ xước cấn,4.090.000đ,,,128 GB
+Samsung Galaxy Z Fold5,Cũ Trầy Xước,20.790.000đ,40.990.000đ,12 GB,256 GB
+Samsung Galaxy S23 Ultra,Cũ Trầy Xước,18.790.000đ,36.990.000đ,12 GB,512 GB
+Samsung Galaxy A14,Cũ Đẹp,2.590.000đ,4.490.000đ,4 GB,128 GB
+iPhone 15 Pro Max,Cũ Trầy Xước,25.690.000đ,34.990.000đ,,256 GB
+Samsung Galaxy S24 Plus,Cũ Đẹp,19.790.000đ,30.490.000đ,12 GB,512 GB
+Điện thoại Sony Xperia 1V,Cũ Đẹp,20.590.000đ,35.990.000đ,12 GB,256 GB
+iPhone 15 Pro Max,Đã Kích Hoạt,31.990.000đ,40.990.000đ,,512 GB
+iPhone 13 Pro Max,Cũ Trầy Xước,18.890.000đ,33.990.000đ,6 GB,512 GB
+Samsung Galaxy Z Fold5,Cũ Xước Cấn,20.790.000đ,44.990.000đ,12 GB,512 GB
+OnePlus Nord CE 3 Lite,Cũ Đẹp,3.990.000đ,6.190.000đ,8 GB,256 GB
+OPPO A57,Cũ Đẹp,2.890.000đ,4.990.000đ,4 GB,128 GB
+TECNO POVA 5,Đã Kích Hoạt,3.790.000đ,5.290.000đ,8 GB,256 GB
+iPhone 13,Cũ Trầy Xước,13.890.000đ,33.990.000đ,4 GB,512 GB
+OPPO Reno10,Đã Kích Hoạt,7.190.000đ,10.990.000đ,8 GB,256 GB
+Samsung Galaxy Z Flip5,Cũ Trầy Xước,10.690.000đ,25.990.000đ,8 GB,256 GB
+iPhone 15 Plus,Cũ Xước Cấn,17.390.000đ,25.990.000đ,,128 GB
+Vivo V25 Pro,Cũ Đẹp,5.290.000đ,13.990.000đ,8GB + Mở rộng 8GB,128 GB
+iPhone X,Cũ trầy xước,5.390.000đ,22.000.000đ,,256 GB
+iPhone SE 2020,Cũ đẹp,5.590.000đ,11.990.000đ,3 GB,128 GB
+Samsung Galaxy Tab S6 Lite,Cũ trầy xước,4.490.000đ,9.990.000đ,4 GB,64 GB
+iPhone 14 Pro,Cũ Xước Cấn,17.390.000đ,27.990.000đ,,128 GB
+iPhone 12 Pro Max,Cũ Trầy Xước,15.790.000đ,37.990.000đ,6 GB,512 GB
+Samsung Galaxy Z Flip4,Cũ Xước Cấn,6.590.000đ,23.990.000đ,8 GB,128 GB
+Samsung Galaxy S21 FE,Cũ đẹp,7.590.000đ,11.490.000đ,8 GB,256 GB
+Nubia Neo,Cũ Đẹp,3.090.000đ,4.990.000đ,8 GB,256 GB
+OnePlus Nord 3,Cũ Đẹp,7.890.000đ,12.490.000đ,16 GB,256 GB
+OPPO Reno8 T,Cũ Đẹp,4.790.000đ,,8 GB,256 GB
+Samsung Galaxy S24 Ultra,Cũ Đẹp,24.090.000đ,37.490.000đ,12 GB,512 GB
+OPPO Find N3,Cũ Xước Cấn,28.290.000đ,44.990.000đ,16 GB,512 GB
+OPPO A96,Cũ Đẹp,3.190.000đ,6.990.000đ,8 GB,128 GB
+OPPO A17K,Cũ Đẹp,1.990.000đ,3.290.000đ,3 GB,64 GB
+iPhone 13 Pro Max,Cũ đẹp,20.890.000đ,35.990.000đ,6 GB,1 TB
+Samsung Galaxy Z Fold5,Cũ Xước Cấn,20.790.000đ,44.990.000đ,12 GB,512 GB
+Samsung Galaxy S21,Cũ đẹp,6.390.000đ,,8 GB,128 GB
+Vivo V23e,Cũ trầy xước,3.190.000đ,8.490.000đ,8 GB,128 GB
+TECNO SPARK 20,Đã Kích Hoạt,2.590.000đ,3.490.000đ,8GB + Mở rộng 8GB,128 GB
+OPPO Reno11,Đã Kích Hoạt,8.090.000đ,9.050.000đ,8 GB,256 GB
+Nokia C20,Cũ đẹp,890.000đ,2.490.000đ,2 GB,32 GB
+realme 11 Pro,Cũ Đẹp,6.590.000đ,11.990.000đ,8 GB,256 GB
+vivo V29E,Đã Kích Hoạt,5.990.000đ,8.990.000đ,8 GB,256 GB
+Samsung Galaxy Z Flip4,Cũ Trầy Xước,7.190.000đ,23.990.000đ,8 GB,128 GB
+Samsung Galaxy A54,Cũ Đẹp,5.540.000đ,10.490.000đ,8 GB,128 GB
+iPhone 13 Pro,Cũ Đẹp,19.590.000đ,30.990.000đ,6 GB,1 TB
+Xiaomi Redmi Note 13,Đã Kích Hoạt,4.490.000đ,,8 GB,256 GB
+Samsung Galaxy M35,Đã Kích Hoạt,6.690.000đ,8.490.000đ,8 GB,256 MB
+OPPO Find N2 Flip,Cũ Trầy Xước,8.990.000đ,19.990.000đ,8 GB,256 GB
+OPPO Reno10 Pro Plus,Cũ Đẹp,10.790.000đ,19.990.000đ,12 GB,256 GB
+realme C67,Đã Kích Hoạt,3.390.000đ,,8 GB,128 GB
+iPhone 15 Pro Max,Cũ Đẹp,34.490.000đ,46.990.000đ,,1 TB
+OPPO A58,Cũ Đẹp,3.490.000đ,,8 GB,128 GB
+OPPO Reno10,Cũ Trầy Xước,5.990.000đ,10.990.000đ,8 GB,256 GB
+Redmi A1,Cũ Trầy Xước,990.000đ,2.190.000đ,2 GB,32 GB
+Samsung Galaxy S24,Cũ Đẹp,14.290.000đ,22.990.000đ,8 GB,256 GB
+iPhone 15 Pro,Cũ Đẹp,28.690.000đ,37.990.000đ,,512 GB
+Samsung Galaxy A55,Cũ Trầy Xước,6.490.000đ,9.990.000đ,8 GB,128 GB
+OPPO A18,Đã Kích Hoạt,2.990.000đ,3.990.000đ,4 GB,128 GB
+iPhone 14 Pro Max,Đã Kích Hoạt,23.390.000đ,29.990.000đ,6 GB,128 GB
+Samsung Galaxy S22 Plus,Cũ Xước Cấn,9.190.000đ,25.990.000đ,8 GB,256 GB
+Samsung Galaxy Z Fold5,Cũ Xước Cấn,19.790.000đ,40.990.000đ,12 GB,256 GB
+Samsung Galaxy A71,Cũ đẹp,4.690.000đ,10.490.000đ,,128 GB
+Samsung Galaxy Z Fold5,Cũ Trầy Xước,21.790.000đ,44.990.000đ,12 GB,512 GB
+OnePlus Nord CE 3 Lite,Đã Kích Hoạt,4.390.000đ,6.190.000đ,8 GB,256 GB
+OPPO Reno12 F,Đã Kích Hoạt,7.890.000đ,9.490.000đ,8 GB,256 GB
+OPPO Reno10,Đã Kích Hoạt,6.390.000đ,,8 GB,128 GB
+OPPO Find N3,Cũ Đẹp,30.290.000đ,44.990.000đ,16 GB,512 GB
+Xiaomi 12 Pro,Đã Kích Hoạt,9.490.000đ,27.990.000đ,12 GB,256 GB
+TCL 40SE,Đã Kích Hoạt,2.590.000đ,3.990.000đ,6 GB,256 GB
+vivo V29E,Cũ Đẹp,5.390.000đ,8.990.000đ,8 GB,256 GB
+Điện thoại Sony Xperia 1 V,Cũ Trầy Xước,19.590.000đ,35.990.000đ,12 GB,256 GB
+Samsung Galaxy A25,Cũ Đẹp,4.490.000đ,6.590.000đ,6 GB,128 GB
+iPhone 7 Plus,Cũ Trầy Xước,0đ,,,256 GB
+Tecno POVA 5,Đã Kích Hoạt,3.290.000đ,4.490.000đ,8 GB,128 GB
+Vivo Y02s,Cũ Xước Cấn,1.690.000đ,3.290.000đ,3 GB,32 GB
+Samsung Galaxy Z Flip6,Đã Kích Hoạt,24.990.000đ,32.990.000đ,12 GB,512 GB
+Samsung Galaxy A25,Cũ Đẹp,4.890.000đ,6.590.000đ,8 GB,128 GB
+iPhone 13 Pro Max,Cũ Đẹp,19.890.000đ,33.990.000đ,6 GB,512 GB
+Realme C55,Cũ Đẹp,2.890.000đ,4.990.000đ,6 GB,128 GB
+Samsung Galaxy A15 LTE,Cũ Đẹp,3.190.000đ,4.990.000đ,8 GB,128 GB
+OPPO Find N3 Flip,Cũ Đẹp,15.390.000đ,22.990.000đ,12 GB,256 GB
+iPhone 15,Cũ Đẹp,22.590.000đ,31.990.000đ,6 GB,512 GB
+iPhone SE 2020,Cũ đẹp,6.390.000đ,17.990.000đ,3 GB,256 GB
+OPPO A77s,Cũ Đẹp,3.490.000đ,6.290.000đ,8 GB,128 GB
+Infinix Note 30,Cũ Trầy Xước,3.090.000đ,5.290.000đ,8GB + Mở rộng 8GB,256 GB
+iPhone XS Max,Cũ đẹp,7.190.000đ,25.000.000đ,,64 GB
+iPhone 11 Pro Max,Cũ đẹp,10.390.000đ,29.000.000đ,4 GB,64 GB
+OPPO Reno12,Đã Kích Hoạt,11.590.000đ,,12 GB,512 GB
+OnePlus 8T,Cũ Đẹp,6.090.000đ,18.990.000đ,12 GB,256 GB
+iPhone 11 Pro Max,Cũ Trầy Xước,9.690.000đ,,4 GB,64 GB
+Samsung Galaxy Z Flip4,Cũ Trầy Xước,7.890.000đ,25.990.000đ,8 GB,256 GB
+ASUS ROG Phone 6 Batman,Cũ Trầy Xước,10.790.000đ,27.990.000đ,12 GB,256 GB
+OPPO A3,Đã Kích Hoạt,4.190.000đ,4.990.000đ,6 GB,128 GB
+OnePlus 11,Cũ Đẹp,14.590.000đ,17.990.000đ,16 GB,256 GB
+Samsung Galaxy S21 Ultra,Cũ Đẹp,15.490.000đ,33.990.000đ,12 GB,128 GB
+vivo V29E,Cũ Trầy Xước,5.590.000đ,8.990.000đ,12 GB,256 GB
+OPPO A78,Đã Kích Hoạt,5.090.000đ,6.990.000đ,8 GB,256 GB
+Samsung Galaxy Z Fold4,Cũ Trầy Xước,16.090.000đ,40.990.000đ,12 GB,512 GB
+iPhone 15,Cũ Trầy Xước,18.590.000đ,25.990.000đ,6 GB,256 GB
+OPPO A78,Cũ Đẹp,4.590.000đ,6.990.000đ,8 GB,256 GB
+Apple iPhone XR,Cũ Trầy Xước,6.890.000đ,20.000.000đ,,256 GB
+Realme C55,Cũ Xước Cấn,2.790.000đ,5.990.000đ,8 GB,256 GB
+Realme C55,Đã Kích Hoạt,3.690.000đ,5.990.000đ,8 GB,256 GB
+OPPO Find X5 Pro,Đã Kích Hoạt,13.590.000đ,19.990.000đ,12 GB,256 GB
+OPPO A57,Cũ Trầy Xước,2.590.000đ,4.990.000đ,4 GB,128 GB
+vivo V29E,Cũ Đẹp,6.090.000đ,8.990.000đ,12 GB,256 GB
+Realme 9i,Cũ Đẹp,2.590.000đ,5.490.000đ,4 GB,64 GB
+iPhone 11,Cũ Trầy Xước,8.490.000đ,19.990.000đ,4 GB,256 GB
+Samsung Galaxy Z Flip4,Cũ Trầy Xước,8.890.000đ,25.990.000đ,8 GB,512 GB
+Samsung Galaxy Note 20,Cũ đẹp,6.290.000đ,23.990.000đ,8 GB,256 GB
+realme 11,Cũ Trầy Xước,3.490.000đ,7.390.000đ,8GB + Mở rộng 8GB,128 GB
+Vivo Y16,Cũ Xước Cấn,1.990.000đ,4.490.000đ,4GB + Mở rộng 1GB,64 GB
+realme 11 Pro,Đã Kích Hoạt,7.290.000đ,11.990.000đ,8 GB,256 GB
+OPPO Reno8 T,Cũ Trầy Xước,5.090.000đ,,8GB + Mở rộng 8GB,256 GB
+Điện thoại Sony Xperia 10VI,Đã Kích Hoạt,9.190.000đ,11.990.000đ,8 GB,128 GB
+Điện thoại ZTE Blade V40,Cũ Trầy Xước,1.390.000đ,2.490.000đ,6GB + Mở rộng 5GB,128 GB
+OPPO A98,Cũ Đẹp,5.090.000đ,5.790.000đ,8 GB,256 GB
+realme C51,Đã Kích Hoạt,2.790.000đ,4.490.000đ,6 GB,256 GB
+Samsung Galaxy S21 FE,Cũ Xước Cấn,6.590.000đ,11.490.000đ,8 GB,256 GB
+Samsung Galaxy S21 FE,Cũ Trầy Xước,7.090.000đ,11.490.000đ,8 GB,256 GB
+OPPO Find N3 Flip,Cũ Trầy Xước,14.390.000đ,22.990.000đ,12 GB,256 GB
+iPhone 14 Pro,Cũ Xước Cấn,18.390.000đ,29.990.000đ,6 GB,256 GB
+iPhone 15 Pro Max,Cũ Trầy Xước,33.490.000đ,46.990.000đ,,1 TB
+OPPO A57,Cũ Đẹp,2.590.000đ,4.490.000đ,4 GB,64 GB
+OnePlus Nord CE 3 Lite,Cũ Trầy Xước,3.690.000đ,6.190.000đ,8 GB,256 GB
+OPPO A79,Đã Kích Hoạt,5.990.000đ,7.990.000đ,8 GB,256 GB
+iPhone 13 mini,Cũ Đẹp,12.090.000đ,24.990.000đ,4 GB,256 GB
+Điện thoại ZTE Blade V40,Đã Kích Hoạt,1.790.000đ,2.490.000đ,6GB + Mở rộng 5GB,128 GB
+Samsung Galaxy Z Flip5,Cũ Trầy Xước,11.990.000đ,29.990.000đ,8 GB,512 GB
+OPPO A77s,Cũ Trầy Xước,3.190.000đ,6.290.000đ,8 GB,128 GB
+OPPO Reno11,Cũ Đẹp,7.290.000đ,9.050.000đ,8 GB,256 GB
+iPhone 11,Đổi Bảo Hành,11.190.000đ,16.990.000đ,4 GB,128 GB
+OPPO Reno8,Cũ Trầy Xước,4.590.000đ,,8 GB,256 GB
+OPPO A18,Cũ Đẹp,2.690.000đ,3.990.000đ,4 GB,128 GB
+Samsung Galaxy Note 20 Ultra,Cũ Xước Cấn,9.590.000đ,32.990.000đ,12 GB,256 GB
+Samsung Galaxy Z Flip5,Cũ Xước Cấn,11.190.000đ,29.990.000đ,8 GB,512 GB
+iPhone 15 Pro,Cũ Xước Cấn,26.690.000đ,37.990.000đ,,512 GB
+OPPO Reno8 T,Cũ Trầy Xước,4.390.000đ,,8 GB,256 GB
+Vivo Y16,Cũ Đẹp,2.290.000đ,4.490.000đ,4GB + Mở rộng 1GB,128 GB
+iPhone 14 Pro Max,Cũ Đẹp,23.590.000đ,32.990.000đ,,256 GB
+Samsung Galaxy Z Fold5,Online - Đã Kích Hoạt,28.000.000đ,44.990.000đ,12 GB,512 GB
+OPPO A17K,Cũ Trầy Xước,1.790.000đ,3.290.000đ,3 GB,64 GB
+Samsung Galaxy A23,Cũ Đẹp,3.490.000đ,,6 GB,128 GB
+Samsung Galaxy Z Flip4,Cũ Đẹp,8.490.000đ,25.990.000đ,8 GB,256 GB
+OPPO Find X5 Pro,Cũ Đẹp,12.290.000đ,19.990.000đ,12 GB,256 GB
+iPhone 14 Pro Max,Cũ Đẹp,26.990.000đ,29.990.000đ,6 GB,1 TB
+OPPO Find N3,Đã Kích Hoạt,33.590.000đ,44.990.000đ,16 GB,512 GB
+OnePlus Nord 3,Cũ Trầy Xước,7.290.000đ,12.490.000đ,16 GB,256 GB
+vivo Y03,Đã Kích Hoạt,2.290.000đ,2.990.000đ,4GB + Mở rộng 4GB,64 GB
+OPPO Find N3 Flip,Cũ Xước Cấn,13.390.000đ,22.990.000đ,12 GB,256 GB
+Nubia Red Magic 7 Obsidian,Cũ Trầy Xước,9.790.000đ,18.990.000đ,12 GB,128 GB
+OPPO A17K,Đã Kích Hoạt,2.190.000đ,3.290.000đ,3 GB,64 GB
+iPhone 14 Pro,Cũ Đẹp,21.590.000đ,27.990.000đ,,512 GB
+Samsung Galaxy Z Flip5,Cũ Trầy Xước,11.990.000đ,29.990.000đ,8 GB,512 GB
+Apple iPhone 8 Plus,Cũ trầy xước,6.190.000đ,,3 GB,128 GB
+Điện thoại Sony Xperia 1VI,Đã Kích Hoạt,24.890.000đ,32.990.000đ,12 GB,256 GB
+Samsung Galaxy Z Flip4,Cũ Xước Cấn,7.290.000đ,25.990.000đ,8 GB,256 GB
+OPPO Find X5 Pro,Đã Kích Hoạt,13.590.000đ,19.990.000đ,12 GB,256 GB
+OPPO Reno12 F,Cũ Đẹp,7.090.000đ,9.490.000đ,8 GB,256 GB
+OPPO A79,Cũ Đẹp,5.990.000đ,7.990.000đ,8 GB,256 GB
+Điện thoại ZTE Blade A55,Đã Kích Hoạt,1.690.000đ,2.090.000đ,4 GB,64 GB
+Điện thoại benco S1 Pro,Đã Kích Hoạt,3.490.000đ,4.290.000đ,8GB + Mở rộng 8GB,256 GB
+OPPO Reno8 T,Đã Kích Hoạt,5.290.000đ,,8 GB,256 GB
+OPPO Find N3,Cũ Trầy Xước,29.290.000đ,44.990.000đ,16 GB,512 GB
+iPhone 14 Plus,Cũ Trầy Xước,17.690.000đ,27.990.000đ,6 GB,256 GB
+Samsung Galaxy Z Flip5,Đã Kích Hoạt,13.890.000đ,29.990.000đ,8 GB,512 GB
+Xiaomi 13T,Cũ Xước Cấn,6.990.000đ,12.990.000đ,12 GB,256 GB
+Samsung Galaxy Z Fold5,Đã Kích Hoạt,27.000.000đ,40.990.000đ,12 GB,256 GB
+realme 11 Pro,Cũ Trầy Xước,6.090.000đ,11.990.000đ,8 GB,256 GB
+OPPO Reno11 Pro,Đã Kích Hoạt,11.790.000đ,16.090.000đ,12 GB,512 GB
+realme 11 Pro,Cũ Xước Cấn,5.590.000đ,11.990.000đ,8 GB,256 GB
+Samsung Galaxy Z Flip5,Cũ Đẹp,12.690.000đ,29.990.000đ,8 GB,512 GB
+Samsung Galaxy Z Flip4,Cũ Xước Cấn,7.290.000đ,25.990.000đ,8 GB,256 GB
+Realme C55,Đã Kích Hoạt,3.190.000đ,4.990.000đ,6 GB,128 GB
+Samsung Galaxy A34,Đã Kích Hoạt,5.940.000đ,,8 GB,256 GB
+Samsung Galaxy S23 Ultra,Cũ Xước Cấn,17.790.000đ,36.990.000đ,12 GB,512 GB
+OPPO A38,Đã Kích Hoạt,3.690.000đ,4.490.000đ,6 GB,128 GB
+OPPO Reno12,Cũ Đẹp,10.590.000đ,,12 GB,512 GB
+Samsung Galaxy Z Fold4,Cũ Xước Cấn,15.090.000đ,40.990.000đ,12 GB,512 GB
+Samsung Galaxy A05,Đã Kích Hoạt,2.090.000đ,3.090.000đ,4 GB,64 GB
+iPhone 12 Pro Max,Cũ Trầy Xước,14.490.000đ,28.990.000đ,,128 GB
+OPPO Find X5 Pro,Cũ Xước Cấn,10.790.000đ,19.990.000đ,12 GB,256 GB
+Samsung Galaxy Z Flip5,Cũ Đẹp,12.690.000đ,29.990.000đ,8 GB,512 GB
+OPPO Reno10 Pro,Cũ Đẹp,7.890.000đ,,12 GB,256 GB
+iPhone 15 Pro,Cũ Đẹp,31.690.000đ,43.990.000đ,,1 TB
+iPhone 14 Pro Max,Cũ Xước Cấn,20.590.000đ,29.990.000đ,6 GB,128 GB
+OPPO Find N3 Flip,Đã Kích Hoạt,17.090.000đ,22.990.000đ,12 GB,256 GB
+Samsung Galaxy Z Fold5,Đã Kích Hoạt Online,37.500.000đ,44.990.000đ,12 GB,1 TB
+Samsung Galaxy Z Flip4,Cũ đẹp,8.490.000đ,25.990.000đ,8 GB,256 GB
+Samsung Galaxy Z Flip5,Cũ Trầy Xước,11.090.000đ,29.990.000đ,8 GB,256 GB
+OPPO A18,Đã Kích Hoạt,2.590.000đ,3.290.000đ,4 GB,64 GB
+OPPO Reno11 Pro,Cũ Đẹp,10.790.000đ,16.090.000đ,12 GB,512 GB
+Samsung Galaxy Z Fold5,Cũ Đẹp,24.790.000đ,44.990.000đ,12 GB,1 TB
+Samsung Galaxy Z Fold5,Cũ Đẹp,22.790.000đ,44.990.000đ,12 GB,512 GB
+iPhone 12 Pro,Cũ trầy xước,12.190.000đ,28.990.000đ,,128 GB
+vivo Y38,Đã Kích Hoạt,4.990.000đ,,8 GB,256 GB
+OPPO A79,Cũ Đẹp,5.390.000đ,7.990.000đ,8 GB,256 GB
+realme C61,Đã Kích Hoạt,2.890.000đ,3.590.000đ,4 GB,128 GB
+Samsung Galaxy Z Fold5,Cũ Xước Cấn,22.790.000đ,44.990.000đ,12 GB,1 TB
+Samsung Galaxy Z Flip4,Cũ Xước Cấn,8.290.000đ,25.990.000đ,8 GB,512 GB
+Samsung Galaxy A23,Cũ Xước Cấn,2.590.000đ,,6 GB,128 GB
+Samsung Galaxy S23 FE,Cũ Trầy Xước,7.990.000đ,14.890.000đ,8 GB,128 GB
+iPhone 12 Pro Max,Cũ Đẹp,18.590.000đ,31.990.000đ,,256 GB
+Samsung Galaxy Z Fold5,Cũ Trầy Xước,22.790.000đ,44.990.000đ,12 GB,512 GB
+Xiaomi 13 Lite,Cũ Xước Cấn,4.590.000đ,11.490.000đ,8 GB,128 GB
+Samsung Galaxy S23 Ultra,Cũ Đẹp,17.290.000đ,31.990.000đ,8 GB,256 GB
+OPPO Reno11 Pro,Cũ Trầy Xước,9.890.000đ,16.090.000đ,12 GB,512 GB
+TECNO SPARK 20PRO+,Cũ Trầy Xước,3.290.000đ,5.490.000đ,8GB + Mở rộng 8GB,256 GB
+Xiaomi 13T,Đã Kích Hoạt,9.090.000đ,12.990.000đ,12 GB,256 GB
+Tecno Pova 6 Neo,Đã Kích Hoạt,3.390.000đ,4.590.000đ,8 GB,128 GB
+Điện thoại Tecno Camon 30,Cũ Trầy Xước,3.890.000đ,6.490.000đ,8 GB,256 GB
+Xiaomi 13T Pro,Cũ Đẹp,11.290.000đ,16.990.000đ,12 GB,512 GB
+ASUS ROG Phone 6,Đã Kích Hoạt,12.190.000đ,18.990.000đ,12 GB,256 GB
+iPhone SE 2020,Cũ đẹp,4.590.000đ,10.990.000đ,3 GB,64 GB
+Samsung Galaxy Note 20 Ultra,Cũ đẹp,8.690.000đ,,8 GB,256 GB
+Xiaomi 13T Pro,Đã Kích Hoạt,12.290.000đ,16.990.000đ,12 GB,512 GB
+Nubia Neo,Cũ Trầy Xước,2.790.000đ,4.990.000đ,8 GB,256 GB
+Samsung Galaxy A15 LTE,Đã Kích Hoạt,3.490.000đ,4.990.000đ,8 GB,128 GB
+iPhone XS,Cũ đẹp,6.790.000đ,28.500.000đ,,256 GB
+Samsung Galaxy Z Fold3,Cũ xước cấn,10.490.000đ,44.990.000đ,12 GB,256 GB
+Apple iPhone 6S Plus,Cũ đẹp,2.790.000đ,18.590.000đ,,64 GB
+Samsung Galaxy A54,Đã Kích Hoạt,6.140.000đ,10.490.000đ,8 GB,128 GB
+Nubia Red Magic 6R,Cũ trầy xước,5.490.000đ,15.990.000đ,8 GB,128 GB
+Xiaomi 13T,Cũ Đẹp,8.190.000đ,12.990.000đ,12 GB,256 GB
+Nubia Neo,Đã Kích Hoạt,3.390.000đ,4.990.000đ,8 GB,256 GB
+iPhone 12 Pro,Cũ đẹp,15.090.000đ,26.631.000đ,,128 GB
+Samsung Galaxy A35,Đã Kích Hoạt,6.390.000đ,8.290.000đ,8 GB,128 GB
+OnePlus Nord CE 3 Lite,Cũ Xước Cấn,3.390.000đ,6.190.000đ,8 GB,256 GB
+Xiaomi Redmi 13C,Đã Kích Hoạt,2.590.000đ,3.490.000đ,6 GB,128 GB
+Apple iPhone 8 Plus,cũ đẹp,5.590.000đ,19.990.000đ,,256 GB
+Xiaomi Redmi Note 12 Pro,Cũ Đẹp,4.990.000đ,9.490.000đ,8 GB,256 GB
+Itel S23,Đã Kích Hoạt,1.690.000đ,3.490.000đ,8 GB,128 GB
+Xiaomi Redmi Note 13 Pro Plus,Cũ Đẹp,7.090.000đ,10.990.000đ,8 GB,256 GB
+Xiaomi 13 Lite,Cũ Đẹp,6.090.000đ,11.490.000đ,8 GB,256 GB
+iPhone 11 Pro Max,Cũ Xước cấn,8.890.000đ,29.000.000đ,4 GB,64 GB
+iPhone 11 Pro Max,Cũ đẹp,12.390.000đ,35.000.000đ,4 GB,512 GB
+Samsung Galaxy A50,Cũ,2.490.000đ,6.990.000đ,,64 GB
+Xiaomi POCO M5,Cũ Đẹp,3.090.000đ,4.690.000đ,6 GB,128 GB
+ASUS ROG Phone 5S,Cũ Trầy Xước,9.190.000đ,20.990.000đ,16 GB,256 GB
+Xiaomi 12T,Cũ Đẹp,6.590.000đ,12.490.000đ,8 GB,128 GB
+Nokia 8210,Cũ Đẹp,890.000đ,1.490.000đ,,128 MB
+Samsung Galaxy A23,Cũ Đẹp,2.890.000đ,5.690.000đ,4 GB,128 GB
+Samsung Galaxy Z Fold3,Cũ đẹp,12.490.000đ,44.990.000đ,12 GB,256 GB
+Samsung Galaxy A53,Cũ Xước Cấn,3.690.000đ,9.990.000đ,8 GB,128 GB
+Samsung Galaxy S23 Ultra,Đã Kích Hoạt,21.290.000đ,36.990.000đ,12 GB,512 GB
+OPPO Reno12,Cũ Đẹp,9.590.000đ,12.990.000đ,12 GB,256 GB
+Xiaomi Redmi 13C,Cũ Trầy Xước,1.990.000đ,3.490.000đ,6 GB,128 GB
+Samsung Galaxy A55,Cũ Đẹp,7.090.000đ,9.990.000đ,8 GB,128 GB
+Điện thoại ZTE Blade A72,Cũ Đẹp,1.290.000đ,2.490.000đ,3 GB,128 GB
+iPhone 8 Plus,cũ đẹp,6.990.000đ,16.000.000đ,3 GB,128 GB
+Xiaomi POCO X6 Pro,Cũ Đẹp,6.390.000đ,9.990.000đ,8 GB,256 GB
+Xiaomi Redmi 13C,Cũ Đẹp,2.290.000đ,3.490.000đ,6 GB,128 GB
+Apple iPhone 6S Plus,Cũ trầy xước,2.490.000đ,18.590.000đ,,64 GB
+Samsung Galaxy A73,Cũ Đẹp,5.990.000đ,12.990.000đ,8 GB,128 GB
+iPhone 12 Pro Max,Cũ Xước Cấn,13.290.000đ,28.990.000đ,,
+iPhone 15 Pro Max,Đổi Bảo Hành,Giá Liên Hệ,34.990.000đ,,256 GB
+Samsung Galaxy S24 Plus,Đã Kích Hoạt,18.090.000đ,26.990.000đ,12 GB,256 GB
+Apple iPhone 7 Plus,Cũ trầy xước,3.290.000đ,9.990.000đ,,32 GB
+ZTE Blade V50 Design,Đã Kích Hoạt,2.190.000đ,2.990.000đ,8GB + Mở rộng 10GB,128 GB
+ASUS ROG Phone 6,Cũ Đẹp,10.990.000đ,18.990.000đ,12 GB,256 GB
+Samsung Galaxy M14,Cũ Đẹp,2.790.000đ,5.290.000đ,4 GB,128 GB
+realme C60,Đã Kích Hoạt,1.990.000đ,2.790.000đ,4 GB,64 GB
+Apple iPhone 8,cũ,2.990.000đ,14.500.000đ,,64 GB
+Xiaomi Redmi Note 12,Đã Kích Hoạt,3.290.000đ,4.990.000đ,4 GB,128 GB
+Xiaomi Redmi 12C,Cũ Đẹp,2.190.000đ,3.590.000đ,4 GB,128 GB
+Xiaomi POCO M5,Đã Kích Hoạt,2.590.000đ,4.690.000đ,6 GB,128 GB
+Samsung Galaxy A34,Đã Kích Hoạt,5.240.000đ,8.490.000đ,8 GB,128 GB
+Xiaomi 12,Cũ Đẹp,6.790.000đ,19.990.000đ,8 GB,256 GB
+Samsung Galaxy S24 Ultra,Đã Kích Hoạt,31.790.000đ,44.490.000đ,12 GB,1 TB
+Xiaomi Redmi Note 10S,Cũ Trầy Xước,3.090.000đ,6.490.000đ,8 GB,128 GB
+Xiaomi Redmi A3,Đã Kích Hoạt,Giá Liên Hệ,2.990.000đ,4 GB,128 GB
+INOI 288S,Cũ Trầy Xước,690.000đ,1.190.000đ,,
+Xiaomi Redmi Note 12,Cũ Trầy Xước,2.990.000đ,5.790.000đ,8 GB,128 GB
+Nubia Neo 2,Cũ Trầy Xước,3.090.000đ,5.490.000đ,8 GB,256 GB
+iPhone 13,Đã Kích Hoạt,14.590.000đ,20.290.000đ,4 GB,256 GB
+Samsung Galaxy Z Flip3,Cũ Xước Cấn,5.990.000đ,26.990.000đ,8 GB,256 GB
+OPPO Reno11,Cũ Trầy Xước,6.790.000đ,9.050.000đ,8 GB,256 GB
+Nokia 110,Cũ Trầy Xước,450.000đ,710.000đ,,128 MB
+Infinix Note 30,Cũ Đẹp,2.590.000đ,4.690.000đ,8GB + Mở rộng 8GB,256 GB
+Xiaomi Redmi Note 10,Cũ trầy xước,1.890.000đ,5.490.000đ,4 GB,64 GB
+Samsung Galaxy A52,Cũ đẹp,2.890.000đ,9.290.000đ,8 GB,128 GB
+Xiaomi Poco X3 GT,Cũ Trầy Xước,2.790.000đ,7.990.000đ,8 GB,128 GB
+Samsung Galaxy S22 Plus,Cũ Trầy Xước,8.990.000đ,25.990.000đ,8 GB,128 GB
+TECNO SPARK 20PRO+,Đã kích hoạt,3.990.000đ,5.490.000đ,8GB + Mở rộng 8GB,256 GB
+Samsung Galaxy A54,Cũ Đẹp,6.140.000đ,10.490.000đ,8 GB,256 GB
+Samsung Galaxy Note 20,Cũ trầy xước,5.790.000đ,23.990.000đ,8 GB,256 GB
+Samsung Galaxy S21 Ultra,Cũ Đẹp,10.090.000đ,33.990.000đ,12 GB,256 GB
+OPPO Reno10,Cũ Xước Cấn,5.490.000đ,10.990.000đ,8 GB,256 GB
+Infinix Hot 30i,Cũ Trầy Xước,Giá Liên Hệ,3.290.000đ,8GB + Mở rộng 8GB,128 GB
+Samsung Galaxy A73,Cũ Trầy Xước,5.490.000đ,12.990.000đ,8 GB,128 GB
+Tecno POVA 5,Cũ Đẹp,2.990.000đ,4.490.000đ,8 GB,128 GB
+INOI Note 13s,Đã Kích Hoạt,2.290.000đ,3.390.000đ,8 GB,256 GB
+Samsung Galaxy M34,Cũ Đẹp,4.290.000đ,7.990.000đ,8 GB,128 GB
+vivo Y18S,Đã Kích Hoạt,3.090.000đ,4.190.000đ,6 GB,128 GB
+Vivo Y02,Cũ Xước Cấn,1.290.000đ,2.790.000đ,2 GB,32 GB
+Xiaomi Redmi Note 11 Pro,Cũ Xước Cấn,3.290.000đ,7.490.000đ,8 GB,128 GB
+Samsung Galaxy S24 Plus,Cũ Đẹp,Giá Liên Hệ,26.990.000đ,12 GB,256 GB
+OPPO A17K,Cũ Xước Cấn,1.490.000đ,3.290.000đ,3 GB,64 GB
+Apple iPhone 7,Cũ đẹp,3.090.000đ,13.000.000đ,,128 GB
+Xiaomi Redmi 10C,Cũ Xước Cấn,1.290.000đ,3.890.000đ,4 GB,128 GB
+Samsung Galaxy A34,Cũ Đẹp,4.740.000đ,8.490.000đ,8 GB,128 GB
+Samsung Galaxy S24 Ultra,Đã Kích Hoạt,26.090.000đ,37.490.000đ,12 GB,512 GB
+Xiaomi POCO X6 Pro,Cũ Trầy Xước,Giá Liên Hệ,9.990.000đ,8 GB,256 GB
+INOI A72,Cũ Đẹp,1.690.000đ,2.490.000đ,4 GB,128 GB
+Samsung Galaxy A54,Cũ Trầy Xước,5.040.000đ,10.490.000đ,8 GB,128 GB
+Nokia 220,Cũ Đẹp,550.000đ,990.000đ,,128 MB
+Apple iPhone 6S,Cũ đẹp,2.690.000đ,14.590.000đ,,64 GB
+Samsung Galaxy Z Flip3,Cũ Xước Cấn,5.990.000đ,26.990.000đ,8 GB,128 GB
+Samsung Galaxy S24 Ultra,Cũ Đẹp,Giá Liên Hệ,44.490.000đ,12 GB,1 TB
+Samsung Galaxy Z Flip3,Cũ Đẹp,6.490.000đ,24.990.000đ,8 GB,128 GB
+Samsung Galaxy Note 20 Ultra,Cũ đẹp,10.090.000đ,32.990.000đ,12 GB,256 GB
+Xiaomi Redmi Note 11 Pro,Cũ Xước Cấn,3.290.000đ,8.990.000đ,8 GB,128 GB
+ZTE Blade A52,Đã Kích Hoạt,1.290.000đ,2.290.000đ,3 GB,64 GB
+Infinix Hot 40 Pro Free Fire,Đã Kích Hoạt,3.090.000đ,4.290.000đ,8 GB,256 GB
+Samsung Galaxy A12,Cũ xước cấn,2.090.000đ,4.290.000đ,4 GB,128 GB
+Xiaomi 12T Pro,Cũ Trầy Xước,7.990.000đ,16.990.000đ,12 GB,256 GB
+Nokia 110,Cũ Trầy Xước,350.000đ,850.000đ,,128 MB
+iPhone XS Max,Cũ trầy xước,7.990.000đ,28.500.000đ,,512 GB
+iPhone 12 mini,Cũ trầy xước,7.990.000đ,18.990.000đ,,128 GB
+iPhone 14 Plus,Đã Kích Hoạt,Giá Liên Hệ,22.990.000đ,6 GB,128 GB
+Masstel izi T2,Cũ Đẹp,400.000đ,500.000đ,48MB,128 MB
+Nokia 105,Cũ Xước Cấn,250.000đ,820.000đ,,128 MB
+Samsung Galaxy Z Flip3,Cũ đẹp,6.990.000đ,26.990.000đ,8 GB,256 GB
+iPhone 14 Pro,Cũ Trầy Xước,21.390.000đ,39.990.000đ,6 GB,1 TB
+ASUS ROG Phone 6,Cũ Trầy Xước,12.390.000đ,20.990.000đ,16 GB,512 GB
+Samsung Galaxy A05,Cũ Đẹp,2.090.000đ,3.090.000đ,4 GB,128 GB
+Vivo V27e,Đã Kích Hoạt,5.190.000đ,8.990.000đ,8 GB,256 GB
+POCO X5,Cũ Đẹp,3.890.000đ,7.490.000đ,8 GB,256 GB
+Xiaomi POCO X6 Pro,Cũ Xước Cấn,5.390.000đ,9.990.000đ,8 GB,256 GB
+Oppo A54,Cũ đẹp,2.490.000đ,4.690.000đ,4 GB,128 GB
+Xiaomi Redmi Note 11 Pro Plus,Cũ đẹp,4.590.000đ,9.990.000đ,8 GB,256 GB
+Samsung Galaxy A53,Cũ đẹp,4.490.000đ,9.990.000đ,8 GB,128 GB
+Samsung Galaxy A52s,Cũ đẹp,3.690.000đ,9.290.000đ,8 GB,128 GB
+iPhone 14 Plus,Cũ Xước Cấn,Giá Liên Hệ,22.990.000đ,6 GB,128 GB
+Tecno POVA 5,Cũ Trầy Xước,2.690.000đ,4.490.000đ,8 GB,128 GB
+Nubia Neo 2,Cũ Đẹp,3.590.000đ,5.490.000đ,8 GB,256 GB
+Xiaomi Redmi Note 11 Pro,Cũ Trầy Xước,3.590.000đ,7.490.000đ,8 GB,128 GB
+Realme C33,Cũ Đẹp,1.890.000đ,3.990.000đ,4 GB,64 GB
+Xiaomi Mi 10T Pro,Cũ xước cấn,3.990.000đ,12.990.000đ,8 GB,256 GB
+Xiaomi Redmi Note 12,Cũ Đẹp,3.290.000đ,4.990.000đ,8 GB,128 GB
+Xiaomi Redmi Note 10,Cũ đẹp,3.990.000đ,5.490.000đ,6 GB,128 GB
+vivo V30E,Đã Kích Hoạt,7.890.000đ,10.490.000đ,12 GB,256 GB
+Điện thoại Tecno Camon 30,Đã Kích Hoạt,5.090.000đ,6.990.000đ,12 GB,256 GB
+Samsung Galaxy A12,Cũ,1.790.000đ,4.290.000đ,4 GB,128 GB
+iPhone 12 Pro Max,Cũ Xước Cấn,13.290.000đ,28.990.000đ,,128 GB
+iPhone 11,Đổi bảo hành,8.990.000đ,13.990.000đ,4 GB,128 GB
+Samsung Galaxy A52s,Cũ Xước Cấn,2.890.000đ,9.290.000đ,8 GB,128 GB
+Samsung Galaxy S22 Ultra,Cũ Đẹp,14.790.000đ,36.990.000đ,12 GB,512 GB
+iPhone XR,Cũ trầy xước,5.690.000đ,16.990.000đ,,128 GB
+Samsung Galaxy M14,Cũ Trầy Xước,2.490.000đ,5.290.000đ,4 GB,128 GB
+Xiaomi Redmi 10A,Cũ Đẹp,1.390.000đ,2.890.000đ,2 GB,32 GB
+TECNO SPARK Go 2024,Đã Kích Hoạt,1.590.000đ,2.190.000đ,4GB + Mở rộng 4GB,64 GB
+Samsung Galaxy Note 10 Lite,Cũ,4.890.000đ,11.490.000đ,8 GB,128 GB
+Samsung Galaxy Note 20 Ultra,Cũ Trầy xước,8.090.000đ,29.990.000đ,8 GB,256 GB
+iPhone 12,Cũ Trầy Xước,10.290.000đ,23.990.000đ,4 GB,256 GB
+iPhone 13 Pro Max,Cũ Xước Cấn,14.890.000đ,31.990.000đ,6 GB,128 GB
+OPPO Reno6 Z,Cũ đẹp,3.590.000đ,9.490.000đ,8 GB,128 GB
+Samsung Galaxy A55,Đã Kích Hoạt,9.490.000đ,9.990.000đ,12 GB,256 GB
+Samsung Galaxy A14,Cũ Xước Cấn,2.290.000đ,5.190.000đ,4 GB,128 GB
+Xiaomi POCO X6 Pro,Cũ Đẹp,7.790.000đ,9.990.000đ,12 GB,512 GB
+Samsung Galaxy A14,Cũ Trầy Xước,2.890.000đ,5.190.000đ,6 GB,128 GB
+iPhone 13 Pro Max,Cũ Đẹp,17.490.000đ,35.990.000đ,6 GB,128 GB
+iPhone 11 Pro Max,Cũ trầy xước,11.690.000đ,35.000.000đ,4 GB,512 GB
+Điện thoại Nubia V60 Design,Đã Kích Hoạt,2.490.000đ,3.290.000đ,6 GB,256 GB
+Samsung Galaxy S24 Ultra,Cũ Xước Cấn,Giá Liên Hệ,33.990.000đ,12 GB,256 GB
+Xiaomi Redmi Note 11 Pro,Đã Kích Hoạt,4.390.000đ,7.490.000đ,8 GB,128 GB
+Samsung Galaxy A34,Cũ Trầy Xước,4.340.000đ,8.490.000đ,,
+Infinix Note 40 Pro,Cũ Đẹp,4.490.000đ,5.990.000đ,8 GB,256 GB
+Xiaomi Redmi Note 13 Pro Plus,Cũ Trầy Xước,6.590.000đ,10.990.000đ,8 GB,256 GB
+Vivo V27e,Cũ Trầy Xước,4.290.000đ,8.990.000đ,8 GB,256 GB
+INOI 288S,Cũ Đẹp,790.000đ,1.190.000đ,,
+Samsung Galaxy Z Fold6,Đã Kích Hoạt,36.990.000đ,47.990.000đ,12 GB,512 GB
+Samsung Galaxy A13,Cũ Xước Cấn,1.690.000đ,4.190.000đ,4 GB,128 GB
+iPhone 11,Đã kích hoạt bảo hành VN/A,8.890.000đ,13.990.000đ,4 GB,128 GB
+OPPO Reno11 F,Cũ Trầy Xước,5.490.000đ,8.990.000đ,8 GB,256 GB
+Infinix Note 30,Đã Kích Hoạt,3.790.000đ,5.290.000đ,8GB + Mở rộng 8GB,256 GB
+Xiaomi 12T,Cũ Đẹp,7.290.000đ,12.490.000đ,8 GB,256 GB
+Xiaomi Redmi Note 12,Cũ Đẹp,3.690.000đ,4.990.000đ,8 GB,256 GB
+Nokia 110,Cũ Đẹp,500.000đ,710.000đ,,128 MB
+Samsung Galaxy Z Flip5,Cũ Xước Cấn,9.890.000đ,29.990.000đ,8 GB,256 GB
+Nokia 3210,Cũ Đẹp,990.000đ,1.590.000đ,,128 MB
+ZTE Blade V50 Design,Cũ Đẹp,1.890.000đ,2.990.000đ,8GB + Mở rộng 10GB,128 GB
+iPhone 14,Cũ Xước Cấn,13.890.000đ,22.990.000đ,6 GB,128 GB
+Itel S23,Đã Kích Hoạt,1.890.000đ,3.990.000đ,8 GB,256 GB
+Samsung Galaxy A32,Cũ đẹp,3.890.000đ,6.490.000đ,6 GB,128 GB
+Samsung Galaxy S21 Ultra,Cũ xước cấn,7.890.000đ,33.990.000đ,12 GB,256 GB
+OPPO A98,Cũ Đẹp,2.190.000đ,5.790.000đ,8 GB,256 GB
+Masstel Fami 60S,Cũ Đẹp,490.000đ,700.000đ,,128 MB
+Xiaomi Redmi 10C,Cũ Đẹp,1.890.000đ,3.890.000đ,4 GB,128 GB
+Vivo V27e,Cũ Đẹp,4.690.000đ,8.990.000đ,8 GB,256 GB
+Nokia C31,Cũ Xước Cấn,1.190.000đ,3.690.000đ,4 GB,128 GB
+Samsung Galaxy Note 20 Ultra,Cũ Trầy Xước,9.390.000đ,32.990.000đ,12 GB,256 GB
+Samsung Galaxy S22 Plus,Cũ Đẹp,10.690.000đ,25.990.000đ,8 GB,256 GB
+TECNO SPARK 20PRO+,Cũ Đẹp,3.590.000đ,5.490.000đ,8GB + Mở rộng 8GB,256 GB
+Xiaomi Redmi 10,Cũ Đẹp,2.190.000đ,3.650.000đ,4 GB,64 GB
+Samsung Galaxy A05S,Cũ Đẹp,2.690.000đ,3.990.000đ,4 GB,128 GB
+iPhone 13,Đổi Bảo Hành,Giá Liên Hệ,17.290.000đ,4 GB,128 GB
+Samsung Galaxy A33,Cũ Đẹp,3.890.000đ,7.290.000đ,6 GB,128 GB
+Xiaomi Redmi Note 11 Pro Plus,Cũ Trầy Xước,4.090.000đ,9.990.000đ,8 GB,256 GB
+Xiaomi Redmi 10,Cũ Xước Cấn,1.690.000đ,3.650.000đ,4 GB,128 GB
+Samsung Galaxy S23 Ultra,Cũ Xước Cấn,15.290.000đ,31.990.000đ,8 GB,256 GB
+OPPO Find X5 Pro,Cũ Xước Cấn,10.790.000đ,19.990.000đ,12 GB,256 GB
+Samsung Galaxy Z Fold6,Cũ Đẹp,Giá Liên Hệ,43.990.000đ,12 GB,256 GB
+OPPO Reno10 Pro Plus,Đã Kích Hoạt,11.990.000đ,19.990.000đ,12 GB,256 GB
+ASUS ROG Phone 6,Cũ Xước Cấn,11.590.000đ,20.990.000đ,16 GB,512 GB
+Redmi A2,Đã Kích Hoạt,1.490.000đ,2.190.000đ,2 GB,32 GB
+Samsung Galaxy Note 20,Cũ xước cấn,5.290.000đ,23.990.000đ,8 GB,256 GB
+Samsung Galaxy M55,Cũ Đẹp,Giá Liên Hệ,12.690.000đ,12 GB,256 GB
+OPPO A57,Cũ Xước Cấn,2.290.000đ,4.990.000đ,4 GB,128 GB
+OPPO Reno8 Z,Cũ Đẹp,4.890.000đ,10.490.000đ,8 GB,256 GB
+iPhone 13,Cũ Đẹp,14.590.000đ,33.990.000đ,4 GB,512 GB
+Xiaomi Redmi Note 13 Pro,Cũ Xước Cấn,3.990.000đ,7.290.000đ,8 GB,128 GB
+iPhone 13 mini,Đổi Bảo Hành,Giá Liên Hệ,21.990.000đ,4 GB,128 GB
+OPPO Reno11,Cũ Xước Cấn,6.290.000đ,9.050.000đ,8 GB,256 GB
+iPhone 11,Cũ,7.990.000đ,13.990.000đ,4 GB,128 GB
+Điện thoại ZTE Blade V40,Cũ Đẹp,1.590.000đ,2.490.000đ,6GB + Mở rộng 5GB,128 GB
+Samsung Galaxy A54,Đã Kích Hoạt,6.840.000đ,10.490.000đ,8 GB,256 GB
+Samsung Galaxy A13,Cũ trầy xước,1.990.000đ,4.190.000đ,4 GB,128 GB
+Realme 10,Cũ Trầy Xước,3.090.000đ,7.190.000đ,8 GB,256 GB
+TECNO SPARK Go 2024,Cũ Đẹp,1.390.000đ,1.990.000đ,4GB + Mở rộng 4GB,64 GB
+Samsung Galaxy A13,Cũ Đẹp,2.290.000đ,4.190.000đ,4 GB,128 GB
+Nokia 105,Cũ Đẹp,450.000đ,680.000đ,,128 MB
+Samsung Galaxy A51,Cũ đẹp,2.190.000đ,7.990.000đ,,128 GB
+Realme C53,Cũ Trầy Xước,2.490.000đ,4.790.000đ,6 GB,128 GB
+OPPO A76,Cũ Xước Cấn,2.190.000đ,5.990.000đ,6 GB,128 GB
+Xiaomi 13T,Đã Kích Hoạt,8.290.000đ,12.990.000đ,8 GB,256 GB
+Samsung Galaxy S24 Ultra,Cũ Xước Cấn,22.090.000đ,37.490.000đ,12 GB,512 GB
+iPhone 15 Plus,Đổi Bảo Hành,Giá Liên Hệ,25.990.000đ,,128 GB
+ZTE Blade V50 Design,Cũ Đẹp,2.090.000đ,3.290.000đ,8GB + Mở rộng 10GB,256 GB
+Xiaomi Redmi Note 12 Pro,Đã Kích Hoạt,4.590.000đ,7.990.000đ,8 GB,256 GB
+Tecno POVA 3,Cũ Trầy Xước,2.090.000đ,4.990.000đ,6 GB,128 GB
+Xiaomi 13T,Cũ Trầy Xước,7.090.000đ,12.990.000đ,8 GB,256 GB
+iPhone 12,Cũ Trầy Xước,8.290.000đ,15.990.000đ,,64 GB
+iPhone 12,Cũ Xước Cấn,8.490.000đ,17.990.000đ,,128 GB
+Nubia Red Magic 6S Pro Ghost,Cũ Xước Cấn,6.990.000đ,22.990.000đ,16 GB,256 GB
+iPhone 11 Pro Max,Cũ Trầy Xước,11.190.000đ,32.000.000đ,4 GB,256 GB
+Infinix Note 40 Pro,Cũ Trầy Xước,4.090.000đ,5.990.000đ,8 GB,256 GB
+iPhone 11 Pro Max,Cũ đẹp,11.890.000đ,32.000.000đ,4 GB,256 GB
+iPhone 14 Pro Max,Cũ Trầy Xước,25.990.000đ,29.990.000đ,6 GB,1 TB
+vivo Y17s,Đã Kích Hoạt,2.490.000đ,3.790.000đ,4 GB,64 GB
+Điện thoại Tecno Camon 30,Đã Kích Hoạt,4.690.000đ,6.490.000đ,8 GB,256 GB
+Redmi A2,Cũ Trầy Xước,1.090.000đ,2.190.000đ,2 GB,32 GB
+Xiaomi 12T,Cũ Trầy Xước,6.090.000đ,12.490.000đ,8 GB,128 GB
+TECNO SPARK 20C,Cũ Đẹp,Giá Liên Hệ,2.690.000đ,4GB + Mở rộng 4GB,128 GB
+iPhone 15 Pro,Đổi Bảo Hành,Giá Liên Hệ,28.990.000đ,,128 GB
+Xiaomi Redmi A3,Cũ Xước Cấn,Giá Liên Hệ,2.990.000đ,4 GB,128 GB
+iPhone 15 Pro,Cũ Trầy Xước,23.390.000đ,31.990.000đ,,256 GB
+Xiaomi 12T,Cũ Xước Cấn,5.590.000đ,12.490.000đ,8 GB,128 GB
+Xiaomi Poco M3,Cũ Đẹp,2.390.000đ,3.990.000đ,,
+vivo Y17s,Đã Kích Hoạt,2.890.000đ,3.790.000đ,6 GB,128 GB
+iPhone 14 Pro Max,Cũ Trầy Xước,21.790.000đ,29.990.000đ,6 GB,128 GB
+Xiaomi Redmi Note 11S,Cũ Trầy Xước,2.590.000đ,6.690.000đ,8 GB,128 GB
+Tecno Camon 20,Đã Kích Hoạt,3.590.000đ,4.990.000đ,8 GB,256 GB
+iPhone 14 Plus,Đổi Bảo Hành,Giá Liên Hệ,22.990.000đ,6 GB,128 GB
+Xiaomi Redmi Note 11S,Cũ Xước Cấn,2.490.000đ,6.690.000đ,8 GB,128 GB
+Samsung Galaxy A12,Cũ Đẹp,1.790.000đ,4.290.000đ,4 GB,128 GB
+Samsung Galaxy S10+,Cũ,7.990.000đ,19.990.000đ,,128 GB
+Xiaomi Redmi A3,Cũ Đẹp,1.890.000đ,2.990.000đ,4 GB,128 GB
+Samsung Galaxy Tab A8 2019,Cũ đẹp,2.030.000đ,2.400.000đ,2 GB,32 GB
+Samsung Galaxy A70,Cũ,3.700.000đ,9.290.000đ,,
+Samsung Galaxy S23,Cũ Xước Cấn,8.490.000đ,22.990.000đ,8 GB,128 GB
+Điện thoại ZTE Blade A54,Cũ Đẹp,1.490.000đ,2.290.000đ,4GB + Mở rộng 4GB,128 GB
+POCO M6,Cũ Đẹp,2.890.000đ,4.290.000đ,6 GB,128 GB
+iPhone 14,Đã Kích Hoạt,15.290.000đ,19.990.000đ,6 GB,128 GB
+Apple iPhone 7 Plus,Cũ Trầy Xước,4.090.000đ,10.990.000đ,,128 GB
+Xiaomi Redmi 12C,Cũ Trầy Xước,1.490.000đ,3.590.000đ,4 GB,64 GB
+Infinix Hot 40i,Đã Kích Hoạt,1.790.000đ,2.390.000đ,4 GB,128 GB
+iPhone 11,Đã kích hoạt bảo hành,7.890.000đ,11.990.000đ,4 GB,64 GB
+iPhone 15 Pro,Cũ Xước Cấn,19.890.000đ,28.990.000đ,,128 GB
+Realme C53,Cũ Đẹp,Giá Liên Hệ,4.790.000đ,6 GB,128 GB
+iPhone 14 Pro Max,Đổi Bảo Hành,Giá Liên Hệ,29.990.000đ,6 GB,128 GB
+OPPO Find N2 Flip,Đã Kích Hoạt,10.690.000đ,19.990.000đ,8 GB,256 GB
+iPhone 12,Cũ Đẹp,10.990.000đ,23.990.000đ,4 GB,256 GB
+Samsung Galaxy A15 LTE,Cũ Trầy Xước,2.890.000đ,4.990.000đ,8 GB,128 GB
+Nokia 110,Cũ Trầy Xước,450.000đ,850.000đ,,128 MB
+iPhone 15,Cũ Xước Cấn,Giá Liên Hệ,25.990.000đ,6 GB,256 GB
+Xiaomi Redmi Note 12 Pro,Cũ Đẹp,3.890.000đ,7.990.000đ,8 GB,128 GB
+Xiaomi Redmi A3,Cũ Đẹp,1.990.000đ,2.990.000đ,4 GB,128 GB
+Nokia 3210,Cũ Trầy Xước,890.000đ,1.590.000đ,,128 MB
+Samsung Galaxy Z Flip3,Cũ xước cấn,5.690.000đ,26.990.000đ,8 GB,128 GB
+Samsung Galaxy Z Fold4,Cũ Đẹp,17.090.000đ,44.490.000đ,12 GB,512 GB
+Oppo A15s,Cũ đẹp,1.890.000đ,4.290.000đ,4 GB,64 GB
+INOI Note 13s,Cũ Đẹp,1.990.000đ,3.390.000đ,8 GB,256 GB
+Realme C55,Cũ Trầy Xước,3.090.000đ,5.990.000đ,8 GB,256 GB
+Tecno Pova 6,Cũ Đẹp,Giá Liên Hệ,6.490.000đ,8 GB,256 GB
+iPhone 13,Cũ Đẹp,13.390.000đ,21.990.000đ,4 GB,256 GB
+OPPO Reno7 Z,Cũ Trầy Xước,3.290.000đ,9.990.000đ,8 GB,128 GB
+Samsung Galaxy S23 Plus,Cũ Xước Cấn,11.090.000đ,26.990.000đ,8 GB,256 GB
+Nokia 105,Cũ xước cấn,340.000đ,750.000đ,,128 MB
+OPPO A38,Cũ Trầy Xước,2.190.000đ,2.890.000đ,4 GB,128 GB
+Điện thoại ZTE Blade A55,Đã Kích Hoạt,1.790.000đ,2.290.000đ,4 GB,128 GB
+TCL 406S,Đã Kích Hoạt,1.490.000đ,1.990.000đ,4 GB,64 GB
+OPPO Reno 6,Cũ Trầy Xước,3.590.000đ,4.190.000đ,,
+iPhone 12 Pro Max,Cũ Xước Cấn,14.590.000đ,37.990.000đ,6 GB,512 GB
+vivo Y02s,Cũ Trầy Xước,1.590.000đ,3.290.000đ,3 GB,64 GB
+Infinix Hot 40 Pro Free Fire,Cũ Xước Cấn,2.190.000đ,4.290.000đ,8 GB,256 GB
+Vivo Y36,Cũ Đẹp,3.390.000đ,5.190.000đ,8 GB,128 GB
+iPhone 14 Pro Max,Đã Kích Hoạt,25.990.000đ,32.990.000đ,,256 GB
+Vivo V25,Cũ Đẹp,4.690.000đ,10.490.000đ,8GB + Mở rộng 8GB,128 GB
+realme C60,Cũ Trầy Xước,1.790.000đ,2.790.000đ,4 GB,64 GB
+realme C51,Cũ Đẹp,2.190.000đ,3.290.000đ,4GB + Mở rộng 4GB,64 GB
+Realme C35,Cũ Xước Cấn,1.890.000đ,4.990.000đ,4 GB,128 GB
+iPhone 15,Đổi Bảo Hành,Giá Liên Hệ,22.990.000đ,,128 GB
+Samsung Galaxy S23 FE,Cũ Đẹp,9.590.000đ,14.890.000đ,8 GB,256 GB
+ZTE Blade A52,Cũ Trầy Xước,890.000đ,2.490.000đ,3 GB,64 GB
+Masstel izi T2,Cũ Trầy Xước,350.000đ,500.000đ,48MB,128 MB
+Oppo A92,Cũ,2.790.000đ,6.490.000đ,8 GB,128 GB
+Samsung Galaxy S23 FE,Đã Kích Hoạt,Giá Liên Hệ,14.890.000đ,8 GB,256 GB
+iPhone 15 Pro,Cũ Trầy Xước,20.890.000đ,28.990.000đ,,128 GB
+Xiaomi Redmi Note 12,Cũ Đẹp-Xám,3.490.000đ,4.990.000đ,8 GB,128 GB
+Samsung Galaxy A03s,Cũ trầy xước,1.790.000đ,3.690.000đ,4 GB,64 GB
+Realme C55,Cũ Trầy Xước,2.590.000đ,4.990.000đ,6 GB,128 GB
+OPPO A76,Cũ Đẹp,2.790.000đ,5.990.000đ,6 GB,128 GB
+Xiaomi Redmi 12C,Cũ Đẹp,1.690.000đ,3.590.000đ,4 GB,64 GB
+Xiaomi Redmi Note 11S,Cũ Đẹp,2.890.000đ,6.690.000đ,8 GB,128 GB
+TECNO POVA 5,Cũ Trầy Xước,3.090.000đ,5.290.000đ,8 GB,256 GB
+Tecno Camon 20 Pro,Cũ Xước Cấn,3.290.000đ,5.490.000đ,8 GB,256 GB
+Nokia C30,Cũ Trầy Xước,1.190.000đ,2.990.000đ,2 GB,32 GB
+Xiaomi Poco M6,Cũ Trầy Xước,2.590.000đ,3.190.000đ,6 GB,128 GB
+Samsung Galaxy Note 20,Cũ xước cấn,6.990.000đ,17.990.000đ,8 GB,256 GB
+Samsung Galaxy A05,Cũ Trầy Xước,1.790.000đ,3.090.000đ,4 GB,128 GB
+Samsung Galaxy S20 FE,Cũ Trầy Xước,4.690.000đ,12.490.000đ,8 GB,256 GB
+Nokia C21 Plus,Cũ Đẹp,1.490.000đ,3.190.000đ,3 GB,64 GB
+Xiaomi Redmi Note 13 Pro,Cũ Đẹp,5.390.000đ,6.390.000đ,8 GB,256 GB
+Realme C55,Cũ Đẹp,3.390.000đ,5.990.000đ,8 GB,256 GB
+Samsung Galaxy A35,Đã Kích Hoạt,6.390.000đ,8.290.000đ,8 GB,256 GB
+Xiaomi Poco F4,Cũ Xước Cấn,3.690.000đ,8.990.000đ,6 GB,128 GB
+Samsung Galaxy M14,Cũ Đẹp,Giá Liên Hệ,5.290.000đ,4 GB,64 GB
+Samsung Galaxy A02s,Cũ Trầy Xước,1.090.000đ,3.590.000đ,4 GB,64 GB
+Realme C35,Cũ Trầy Xước,2.290.000đ,4.990.000đ,4 GB,128 GB
+Vivo Y02s,Cũ Đẹp,1.490.000đ,3.290.000đ,3 GB,32 GB
+Samsung Galaxy S23,Cũ Trầy Xước,Giá Liên Hệ,22.990.000đ,8 GB,128 GB
+Realme C30s,Cũ Đẹp,1.290.000đ,2.490.000đ,2 GB,32 GB
+Vivo Y21S,Cũ đẹp,2.390.000đ,4.990.000đ,4 GB,128 GB
+Samsung Galaxy Z Flip4,Cũ Xước Cấn,7.290.000đ,25.990.000đ,8 GB,256 GB
+Realme C53,Cũ Đẹp,3.090.000đ,4.790.000đ,8 GB,256 GB
+Realme C33,Cũ Trầy Xước,1.390.000đ,3.490.000đ,3 GB,32 GB
+Samsung Galaxy A50,Cũ,2.800.000đ,7.990.000đ,6 GB,128 GB
+OPPO A95,Cũ Xước Cấn,2.590.000đ,6.990.000đ,8 GB,128 GB
+Infinix Hot 30i,Cũ Xước Cấn,1.290.000đ,2.790.000đ,4GB + Mở rộng 4GB,128 GB
+Tecno Spark Go,Cũ Đẹp,1.590.000đ,2.490.000đ,4GB + Mở rộng 3GB,64 GB
+Xiaomi POCO M5s,Cũ Đẹp,2.790.000đ,5.290.000đ,6 GB,128 GB
+Samsung Galaxy S23,Cũ Đẹp,11.290.000đ,24.990.000đ,8 GB,256 GB
+Xiaomi Redmi Note 13 Pro,Cũ Trầy Xước,4.290.000đ,7.290.000đ,8 GB,128 GB
+Samsung Galaxy M14,Đã Kích Hoạt,3.090.000đ,5.290.000đ,4 GB,128 GB
+Tecno Spark 10 Pro,Cũ Trầy Xước,2.390.000đ,3.990.000đ,8 GB,128 GB
+Vivo Y36,Cũ Trầy Xước,Giá Liên Hệ,5.190.000đ,8 GB,128 GB
+Nokia T20,Cũ Xước Cấn,2.090.000đ,6.290.000đ,4 GB,64 GB
+Xiaomi Redmi Note 11 Pro,Cũ Đẹp,4.090.000đ,8.990.000đ,8 GB,128 GB
+Samsung Galaxy S22,Cũ Xước Cấn,7.290.000đ,21.990.000đ,8 GB,128 GB
+Samsung Galaxy Z Flip4,Đã Kích Hoạt,8.990.000đ,23.990.000đ,8 GB,128 GB
+Samsung Galaxy S22 Plus,Cũ Xước Cấn,8.190.000đ,25.990.000đ,8 GB,128 GB
+Samsung Galaxy A35,Cũ Trầy Xước,5.290.000đ,8.290.000đ,8 GB,128 GB
+Samsung Galaxy A15 LTE,Đã Kích Hoạt,3.890.000đ,4.990.000đ,8 GB,256 GB
+iPhone 12 Pro Max,Cũ Đẹp,15.290.000đ,28.990.000đ,,128 GB
+iPhone 15 Pro Max,Đổi Bảo Hành,Giá Liên Hệ,40.990.000đ,,512 GB
+Samsung Galaxy A15 LTE,Cũ Đẹp,3.490.000đ,4.990.000đ,8 GB,256 GB
+Samsung Galaxy S23 FE,Đã Kích Hoạt,9.490.000đ,14.890.000đ,8 GB,128 GB
+Samsung Galaxy A05S,Cũ Đẹp,2.990.000đ,3.990.000đ,6 GB,128 GB
+Oppo A73,Cũ Trầy Xước,2.690.000đ,5.490.000đ,6 GB,128 GB
+OPPO A96,Cũ Xước Cấn,2.990.000đ,6.990.000đ,8 GB,128 GB
+Samsung Galaxy M14,Cũ Xước Cấn,Giá Liên Hệ,5.290.000đ,4 GB,128 GB
+Samsung Galaxy A53,Cũ Trầy Xước,4.090.000đ,9.990.000đ,8 GB,128 GB
+Samsung Galaxy M14,Cũ Trầy Xước,3.390.000đ,5.290.000đ,4 GB,128 GB
+Realme C20,Cũ Trầy Xước,890.000đ,2.690.000đ,2 GB,32 GB
+Xiaomi Redmi 10,Cũ Trầy Xước,1.890.000đ,3.650.000đ,4 GB,64 GB
+Vivo X80 Pro,Cũ Trầy Xước,8.390.000đ,29.990.000đ,12 GB,256 GB
+Tecno Spark 10 Pro,Cũ Trầy Xước,2.090.000đ,4.490.000đ,8 GB,256 GB
+Xiaomi Redmi A3,Cũ Trầy Xước,1.790.000đ,2.990.000đ,4 GB,128 GB
+OPPO A18,Cũ Đẹp,2.290.000đ,3.990.000đ,4 GB,64 GB
+Xiaomi Redmi Note 11 Pro,Cũ Trầy Xước,3.690.000đ,8.990.000đ,8 GB,128 GB
+iPhone 15 Pro,Đổi Bảo Hành,Giá Liên Hệ,31.990.000đ,,256 GB
+Masstel izi S3,Cũ Đẹp,350.000đ,470.000đ,,16 GB
+Samsung Galaxy Z Flip4,Cũ Trầy Xước,7.890.000đ,25.990.000đ,8 GB,256 GB
+Xiaomi Mi 11 Lite,Cũ Trầy Xước,4.290.000đ,9.490.000đ,6 GB,128 GB
+Nokia 215,Cũ Trầy Xước,450.000đ,960.000đ,,128 MB
+Samsung Galaxy Z Fold3,Cũ đẹp,13.490.000đ,44.990.000đ,12 GB,512 GB
+OPPO A95,Cũ trầy xước,2.890.000đ,6.990.000đ,8 GB,128 GB
+Vivo Y12s,Cũ đẹp,1.990.000đ,3.290.000đ,3 GB,32 GB
+Xiaomi Redmi Note 10 Pro,Cũ trầy xước,3.290.000đ,7.490.000đ,8 GB,128 GB
+iPhone 14,Đã Kích Hoạt,18.590.000đ,25.990.000đ,6 GB,256 GB
+Infinix Hot 40i,Cũ Đẹp,1.590.000đ,2.390.000đ,4 GB,128 GB
+Xiaomi Redmi Note 12S,Cũ Đẹp,3.590.000đ,6.690.000đ,8 GB,256 GB
+Samsung Galaxy A03,Cũ Đẹp,1.390.000đ,2.990.000đ,3 GB,32 GB
+realme C51,Cũ Đẹp,2.690.000đ,4.490.000đ,6 GB,256 GB
+OPPO Reno7,Cũ Xước Cấn,3.190.000đ,7.990.000đ,8 GB,128 GB
+Apple iPhone XS Max,Cũ,6.590.000đ,25.000.000đ,,64 GB
+Vivo X70 Pro,Cũ Đẹp,8.390.000đ,19.990.000đ,12 GB,256 GB
+Infinix Hot 30i,Cũ Đẹp,1.690.000đ,3.290.000đ,8GB + Mở rộng 8GB,128 GB
+Samsung Galaxy A05,Cũ Đẹp,2.390.000đ,3.090.000đ,6 GB,128 GB
+iPhone 14 Pro,Đổi Bảo Hành,Giá Liên Hệ,27.990.000đ,,128 GB
+Samsung Galaxy A05S,Cũ Trầy Xước,2.790.000đ,3.990.000đ,6 GB,128 GB
+Vsmart Aris,Cũ,2.890.000đ,5.990.000đ,6 GB,64 GB
+Realme C21Y,Cũ Trầy Xước,1.990.000đ,4.290.000đ,4 GB,64 GB
+Samsung Galaxy A05,Cũ Xước Cấn,1.790.000đ,3.090.000đ,6 GB,128 GB
+Vivo Y35,Cũ Trầy Xước,2.890.000đ,6.990.000đ,8GB + Mở rộng 8GB,128 GB
+Xiaomi Redmi 10C,Cũ Đẹp,1.690.000đ,3.890.000đ,4 GB,64 GB
+Điện thoại Sony Xperia 1V,Đã Kích Hoạt,23.490.000đ,35.990.000đ,12 GB,256 GB
+Samsung Galaxy A05,Cũ Xước Cấn,Giá Liên Hệ,3.090.000đ,4 GB,128 GB
+Samsung Galaxy A05S,Cũ Xước Cấn,2.090.000đ,3.990.000đ,4 GB,128 GB
+OPPO Reno12 F,Đã Kích Hoạt,8.190.000đ,9.490.000đ,12 GB,256 GB
+Samsung Galaxy S23 Ultra,Đã Kích Hoạt,18.790.000đ,31.990.000đ,8 GB,256 GB
+Điện thoại ZTE Blade A72,Cũ Trầy Xước,1.090.000đ,2.490.000đ,3 GB,128 GB
+Xiaomi 13T Pro,Cũ Đẹp,10.290.000đ,16.990.000đ,12 GB,256 GB
+Samsung Galaxy A30s,Cũ đẹp,3.000.000đ,6.290.000đ,4 GB,64 GB
+Samsung Galaxy A55,Cũ Đẹp,7.590.000đ,9.990.000đ,8 GB,256 GB
+Samsung Galaxy A12,Cũ Trầy Xước,1.590.000đ,4.290.000đ,4 GB,128 GB
+Vivo Y16,Cũ Xước Cấn,1.790.000đ,4.490.000đ,4GB + Mở rộng 1GB,128 GB
+Oneplus 10T,Cũ Đẹp,9.490.000đ,17.990.000đ,16 GB,256 GB
+Redmi A2,Cũ Đẹp,1.290.000đ,2.190.000đ,2 GB,32 GB
+iPhone 13 Pro,Cũ Xước Cấn,Giá Liên Hệ,23.990.000đ,6 GB,128 GB
+Nokia G21,Cũ Xước Cấn,2.090.000đ,4.290.000đ,6 GB,128 GB
+Xiaomi Mi 11 Lite,Cũ Đẹp,4.990.000đ,9.490.000đ,8 GB,128 GB
+Nokia 105,Cũ Xước Cấn,350.000đ,680.000đ,,128 MB
+Xiaomi POCO M5,Cũ Trầy Xước,2.090.000đ,4.290.000đ,4 GB,64 GB
+Samsung Galaxy S21 FE,Cũ Xước Cấn,5.890.000đ,16.990.000đ,8 GB,128 GB
+realme C51,Đã Kích Hoạt,2.490.000đ,3.290.000đ,4GB + Mở rộng 4GB,64 GB
+Masstel Lux 20,Cũ Xước Cấn,300.000đ,500.000đ,,128 MB
+Samsung Galaxy A33,Cũ Trầy Xước,3.590.000đ,7.290.000đ,6 GB,128 GB
+Samsung Galaxy Z Fold4,Đã Kích Hoạt,17.490.000đ,40.990.000đ,12 GB,256 GB
+Samsung Galaxy A35,Cũ Đẹp,6.090.000đ,8.290.000đ,8 GB,256 GB
+Samsung Galaxy A23,Cũ Trầy Xước,2.890.000đ,5.990.000đ,4 GB,128 GB
+Infinix Hot 40 Pro Free Fire,Cũ Đẹp,Giá Liên Hệ,4.290.000đ,8 GB,256 GB
+vivo Y17s,Cũ Đẹp,2.290.000đ,3.790.000đ,4 GB,64 GB
+Oppo A15s,Cũ Trầy Xước,1.890.000đ,4.290.000đ,4 GB,64 GB
+Samsung Galaxy M14,Cũ Trầy Xước,2.390.000đ,5.290.000đ,4 GB,64 GB
+Samsung Galaxy S23 FE,Cũ Xước Cấn,7.090.000đ,14.890.000đ,8 GB,128 GB
+Samsung Galaxy S22 Ultra,Cũ Trầy Xước,14.090.000đ,36.990.000đ,12 GB,512 GB
+realme C51,Cũ Trầy Xước,2.190.000đ,4.490.000đ,6 GB,256 GB
+Vivo Y12s,Cũ Đẹp,1.590.000đ,3.290.000đ,3 GB,32 GB
+Realme C55,Cũ Xước Cấn,2.290.000đ,4.990.000đ,6 GB,128 GB
+Vivo Y02t,Đã Kích Hoạt,1.890.000đ,2.990.000đ,4 GB,64 GB
+iPhone 13,Đổi bảo hành VN/A,17.790.000đ,24.990.000đ,4 GB,128 GB
+vivo Y22S,Cũ Đẹp,2.690.000đ,5.290.000đ,4 GB,128 GB
+Samsung Galaxy A73,Cũ Xước Cấn,5.490.000đ,12.990.000đ,8 GB,256 GB
+OPPO A16,Cũ Trầy Xước,1.790.000đ,3.990.000đ,4 GB,64 GB
+Vivo Y21S,Cũ Trầy Xước,2.090.000đ,4.990.000đ,4 GB,128 GB
+Samsung Galaxy S22 Plus,Đã kích hoạt,13.990.000đ,25.990.000đ,8 GB,128 GB
+Xiaomi Redmi Note 12,Cũ Xước Cấn,3.090.000đ,4.990.000đ,8 GB,256 GB
+OPPO Reno7 Z,Cũ Xước Cấn,2.990.000đ,9.990.000đ,8 GB,128 GB
+Vivo Y53S,Cũ Xước Cấn,2.790.000đ,6.990.000đ,8 GB,128 GB
+Samsung Galaxy A72,Đã kích hoạt bảo hành,5.590.000đ,11.490.000đ,8 GB,256 GB
+iPhone 11,Cũ Xước Cấn,8.990.000đ,19.990.000đ,4 GB,256 GB
+iPhone 14 Plus,Đổi Bảo Hành,Giá Liên Hệ,22.990.000đ,6 GB,128 GB
+Masstel izi S3,Cũ Trầy Xước,300.000đ,470.000đ,,16 GB
+iPhone 14,Đã Kích Hoạt,23.390.000đ,33.990.000đ,6 GB,512 GB
+Realme C30s,Đã Kích Hoạt,1.990.000đ,2.690.000đ,3 GB,64 GB
+Xiaomi 12 Pro,Cũ Xước Cấn,7.690.000đ,27.990.000đ,12 GB,256 GB
+Samsung Galaxy S21 FE,Cũ Trầy Xước,5.690.000đ,11.490.000đ,6 GB,128 GB
+Samsung Galaxy Z Flip4 FMC,Cũ Trầy Xước,8.090.000đ,25.990.000đ,8 GB,256 GB
+Xiaomi 13T,Cũ Trầy Xước,7.590.000đ,12.990.000đ,12 GB,256 GB
+iPhone SE 2020,Cũ,4.390.000đ,10.990.000đ,3 GB,64 GB
+Realme C33,Đã Kích Hoạt,3.490.000đ,3.490.000đ,3 GB,32 GB
+Infinix Hot 40i,Cũ Đẹp,1.990.000đ,3.190.000đ,8 GB,256 GB
+Xiaomi 13 Lite,Đã Kích Hoạt,7.490.000đ,11.490.000đ,8 GB,128 GB
+Vsmart Star 4,Cũ đẹp,1.490.000đ,2.290.000đ,2 GB,32 GB
+Xiaomi Redmi Note 12S,Cũ Trầy Xước,3.390.000đ,6.690.000đ,8 GB,256 GB
+vivo Y22S,Cũ Trầy Xước,2.390.000đ,5.290.000đ,4 GB,128 GB
+OPPO A18,Cũ Trầy Xước,1.990.000đ,3.290.000đ,4 GB,64 GB
+Samsung Galaxy A04,Cũ Trầy Xước,1.690.000đ,2.990.000đ,3 GB,32 GB
+Infinix Hot 40i,Cũ Trầy Xước,Giá Liên Hệ,2.390.000đ,4 GB,128 GB
+OPPO Reno8 Pro,Cũ Xước Cấn,6.190.000đ,18.990.000đ,12 GB,256 GB
+OPPO Reno8 Pro,Cũ Xước Cấn,6.190.000đ,18.990.000đ,12 GB,256 GB
+OPPO A95,Cũ Đẹp-Đen,3.590.000đ,6.990.000đ,8 GB,128 GB
+Samsung Galaxy S23,Cũ Xước Cấn,10.090.000đ,24.990.000đ,8 GB,256 GB
+Samsung Galaxy A34,Cũ Xước Cấn,3.940.000đ,8.490.000đ,8 GB,128 GB
+realme Note 60,Đã Kích Hoạt,2.390.000đ,3.090.000đ,4 GB,64 GB
+iPhone 14 Pro,Đã Kích Hoạt,25.490.000đ,30.990.000đ,,128 GB
+iPhone 14 Pro Max,Đổi Bảo Hành,Giá Liên Hệ,32.990.000đ,,256 GB
+iPhone 11 Pro,Cũ trầy xước,10.990.000đ,28.000.000đ,4 GB,256 GB
+Xiaomi Mi 11T Pro,Đã kích hoạt,8.790.000đ,14.990.000đ,,
+Infinix Hot 40 Pro Free Fire,Cũ Trầy Xước,2.490.000đ,4.290.000đ,8 GB,256 GB
+Infinix Hot 30i,Cũ Trầy Xước,Giá Liên Hệ,2.790.000đ,4GB + Mở rộng 4GB,128 GB
+Realme Note 50,Cũ Trầy Xước,1.490.000đ,2.790.000đ,3 GB,64 GB
+iPhone 12 Pro Max,Cũ Xước Cấn,Giá Liên Hệ,28.990.000đ,,128 GB
+iPhone 14,Đổi Bảo Hành VN/A,Giá Liên Hệ,19.990.000đ,6 GB,128 GB
+FALSE,,Giá Liên Hệ,44.990.000đ,12 GB,512 GB
+iPhone 15 Pro Max,Đã kích hoạt,Giá Liên Hệ,40.990.000đ,,512 GB
+Xiaomi 13T,Cũ Xước Cấn,6.690.000đ,12.990.000đ,8 GB,256 GB
+Realme C35,Cũ Đẹp,2.590.000đ,4.990.000đ,4 GB,128 GB
+Xiaomi Poco X3 GT,Cũ Xước Cấn,3.590.000đ,7.990.000đ,8 GB,128 GB
+Samsung Galaxy A35,Cũ Xước Cấn,4.990.000đ,8.290.000đ,8 GB,128 GB
+Honor X7B,Cũ Trầy Xước,3.190.000đ,3.490.000đ,8 GB,256 GB
+Honor X7B,Cũ Trầy Xước,3.190.000đ,3.490.000đ,8 GB,256 GB
+Itel S23,Cũ Xước Cấn,Giá Liên Hệ,3.490.000đ,8 GB,128 GB
+Điện thoại Tecno Camon 30,Cũ Trầy Xước,Giá Liên Hệ,6.990.000đ,12 GB,256 GB
+vivo V29E,Cũ Trầy Xước,5.090.000đ,8.990.000đ,8 GB,256 GB
+Realme 9 Pro Plus,Cũ Đẹp,3.990.000đ,6.990.000đ,8 GB,128 GB
+iPhone 12 Pro Max,Đã Kích Hoạt,26.490.000đ,36.990.000đ,,128 GB
+Samsung Galaxy A15 LTE,Cũ Trầy Xước,3.190.000đ,4.990.000đ,8 GB,256 GB
+Xiaomi Redmi 12,Cũ Trầy Xước,1.990.000đ,2.490.000đ,4 GB,128 GB
+Xiaomi Redmi 13C,Cũ Xước Cấn,Giá Liên Hệ,3.490.000đ,6 GB,128 GB
+Xiaomi Poco F4,Cũ Xước Cấn,4.290.000đ,9.990.000đ,8 GB,256 GB
+Xiaomi Redmi Note 12S,Cũ Xước Cấn,2.890.000đ,6.690.000đ,8 GB,256 GB
+Samsung Galaxy M15,Cũ Đẹp,3.290.000đ,5.890.000đ,6 GB,128 GB
+Điện thoại Itel RS4,Đã Kích Hoạt,3.090.000đ,3.990.000đ,8 GB,256 GB
+Samsung Galaxy S23,Cũ Trầy Xước,10.490.000đ,24.990.000đ,8 GB,256 GB
+iPhone 14 Plus,Đổi Bảo Hành,Giá Liên Hệ,22.990.000đ,6 GB,128 GB
+Xiaomi Mi 11 Lite,Cũ trầy xước,4.790.000đ,7.990.000đ,8 GB,128 GB
+iPhone 14 Pro Max,Đổi Bảo Hành,Giá Liên Hệ,32.990.000đ,,256 GB
+iPhone 14 Pro,Cũ Xước Cấn,Giá Liên Hệ,27.990.000đ,,512 GB
+TCL 40SE,Đã Kích Hoạt,2.590.000đ,3.990.000đ,6 GB,256 GB
+Xiaomi Redmi Note 13 Pro,Đã Kích Hoạt,5.390.000đ,6.390.000đ,8 GB,256 GB
+iPhone 14 Pro,Đổi Bảo Hành,Giá Liên Hệ,27.990.000đ,,128 GB
+Nokia C21 Plus,Cũ Xước Cấn,690.000đ,2.990.000đ,3 GB,32 GB
+Nubia Red Magic 7 Pusar,Cũ Trầy Xước,11.290.000đ,21.990.000đ,16 GB,256 GB
+iPhone 14 Pro,Đổi Bảo Hành,Giá Liên Hệ,29.990.000đ,6 GB,256 GB
+iPhone 14 Pro,Đổi Bảo Hành,Giá Liên Hệ,27.990.000đ,,128 GB
+Tecno Spark 10,Cũ Trầy Xước,1.890.000đ,3.590.000đ,8 GB,128 GB
+iPhone 13,Cũ Xước Cấn,Giá Liên Hệ,26.290.000đ,4 GB,512 GB
+OPPO Reno12,Cũ Trầy Xước,8.890.000đ,12.990.000đ,12 GB,256 GB
+Xiaomi Redmi Note 13 Pro,Cũ Xước Cấn,4.390.000đ,6.390.000đ,8 GB,256 GB
+ASUS ROG Phone 7 Ultimate,Cũ Xước Cấn,17.790.000đ,29.990.000đ,16 GB,512 GB
+iPhone 15 Pro Max,Đã Kích Hoạt,36.490.000đ,46.990.000đ,,1 TB
+Xiaomi Redmi 10A,Cũ Xước Cấn,1.590.000đ,2.890.000đ,3 GB,64 GB
+Samsung Galaxy A25,Cũ Xước Cấn,Giá Liên Hệ,6.590.000đ,6 GB,128 GB
+Samsung Galaxy A33,Cũ Xước Cấn,3.990.000đ,7.290.000đ,8 GB,128 GB
+Samsung Galaxy A33,Cũ Xước Cấn,3.990.000đ,7.290.000đ,8 GB,128 GB
+Samsung Galaxy A52,Cũ Xước Cấn,2.790.000đ,9.290.000đ,8 GB,128 GB
+Samsung Galaxy A23,Cũ Trầy Xước,3.190.000đ,5.990.000đ,6 GB,128 GB
+Samsung Galaxy S23 Ultra,Cũ Xước Cấn,15.290.000đ,31.990.000đ,8 GB,256 GB
